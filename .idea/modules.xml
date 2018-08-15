@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../api-tree/api-tree.iml" filepath="$PROJECT_DIR$/../api-tree/api-tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../errors-blueforest/errors-blueforest.iml" filepath="$PROJECT_DIR$/../errors-blueforest/errors-blueforest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../express-blueforest/express-blueforest.iml" filepath="$PROJECT_DIR$/../express-blueforest/express-blueforest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../infra-blueforest/infra-blueforest.iml" filepath="$PROJECT_DIR$/../infra-blueforest/infra-blueforest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../items-service/items-service.iml" filepath="$PROJECT_DIR$/../items-service/items-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mongo-queries-blueforest/mongo-queries-blueforest.iml" filepath="$PROJECT_DIR$/../mongo-queries-blueforest/mongo-queries-blueforest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test-api-express-mongo/test-api-express-mongo.iml" filepath="$PROJECT_DIR$/../test-api-express-mongo/test-api-express-mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../unit-manip/unit-manip.iml" filepath="$PROJECT_DIR$/../unit-manip/unit-manip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web-blueforest/web-blueforest.iml" filepath="$PROJECT_DIR$/../web-blueforest/web-blueforest.iml" />
+    </modules>
+  </component>
+</project>

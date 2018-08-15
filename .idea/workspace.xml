@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../api-tree/src/rest/impact/postImpactRest.js" line="16" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/../api-tree/src/rest/branch/getBranchRest.js" line="14" mnemonic="1" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59cf9afc-f9d6-4cc0-9801-90431ffd9ea6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="testGetImpactTankInteg.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactTank/testGetImpactTankInteg.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="655">
+              <caret line="43" column="47" lean-forward="true" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#126#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testGetImpactInteg.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/impact/testGetImpactInteg.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testGetTankInteg.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/tank/testGetTankInteg.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1105">
+              <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>withIdsIn</find>
+      <find>initReadTree</find>
+      <find>withIdBqt</find>
+      <find>match</find>
+      <find>matchId</find>
+      <find>index</find>
+      <find>pullItem</find>
+      <find>pushItem</find>
+      <find>withQuantity</find>
+      <find>console.log</find>
+      <find>farineItem</find>
+      <find>withDbTrunk</find>
+      <find>items</find>
+      <find>facetId</find>
+      <find>d,</find>
+      <find>createObjectId</find>
+      <find>oneUpsertedResponse</find>
+      <find>post existing</find>
+      <find>withError</find>
+      <find>5000</find>
+      <find>farineBranches</find>
+      <find>treeRead</find>
+      <find>_id: object(</find>
+      <find>readAllQuantifiedImpacts</find>
+      <find>multiplyBqt</find>
+      <find>i =&gt; i._id</find>
+      <find>withIdIn</find>
+      <find>readAllQuantified</find>
+      <find>find</find>
+      <find>findMixin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>withIdBqtG</replace>
+      <replace>:bqt/:g</replace>
+      <replace>Nomb</replace>
+      <replace>&quot;bqt&quot;</replace>
+      <replace>500</replace>
+      <replace>withBqtG</replace>
+      <replace>g</replace>
+      <replace>&quot;Surf&quot;</replace>
+      <replace>1000, &quot;Mass&quot;</replace>
+      <replace>&quot;Volu&quot;</replace>
+      <replace>g: &quot;</replace>
+      <replace>bqt:</replace>
+      <replace>g:</replace>
+      <replace>setBqt</replace>
+      <replace>withIdBqt</replace>
+      <replace />
+      <replace>withId</replace>
+      <replace>_id:</replace>
+      <replace>i</replace>
+      <replace>1000000, &quot;Mass&quot;)</replace>
+      <replace>withoutItemQuantity</replace>
+      <replace>withDbTrunk</replace>
+      <replace>validG</replace>
+      <replace>10</replace>
+      <replace>appendInfos</replace>
+      <replace>append</replace>
+      <replace>treeRead</replace>
+      <replace>d, _id:</replace>
+      <replace>d, bqt:</replace>
+      <replace>farineBranch</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\slima\WebstormProjects\web-blueforest</dir>
+      <dir>C:\Users\slima\WebstormProjects\unit-manip\test\unit</dir>
+      <dir>C:\Users\slima\WebstormProjects\web-blueforest\node_modules\request-promise-lite\lib</dir>
+      <dir>C:\Users\slima\WebstormProjects\web-blueforest\node_modules\request-promise-lite</dir>
+      <dir>C:\Users\slima\WebstormProjects\api-tree\test</dir>
+      <dir>C:\Users\slima\WebstormProjects\api-tree\test\database</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../api-tree" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../api-tree" value="master" />
+        <entry key="$PROJECT_DIR$/../express-blueforest" value="master" />
+        <entry key="$PROJECT_DIR$/../infra-blueforest" value="master" />
+        <entry key="$PROJECT_DIR$/../mongo-queries-blueforest" value="master" />
+        <entry key="$PROJECT_DIR$/../test-api-express-mongo" value="master" />
+        <entry key="$PROJECT_DIR$/../unit-manip" value="master" />
+        <entry key="$PROJECT_DIR$/../web-blueforest" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_COMMON_BRANCH" value="without-big-lodash" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../api-tree/test/database/banane.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/root/testGetRootInteg.js" />
+        <option value="$PROJECT_DIR$/../test-api-express-mongo/src/db.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/facet/deleteFacetRest.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/impact/deleteImpactRest.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/impact/testDeleteImpactInteg.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/facet/postFacetRest.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/const/paths.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/facet/testPostFacetInteg.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/trunk/getTrunkRest.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/facet/testDeleteFacetInteg.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/branch/deleteBranchRest.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/spec/branch/testDeleteBranchSpec.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/branch/testDeleteBranchInteg.js" />
+        <option value="$PROJECT_DIR$/../mongo-queries-blueforest/src/index.js" />
+        <option value="$PROJECT_DIR$/../express-blueforest/src/run.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/root/getRootRest.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/spec/root/testDeleteRootSpec.js" />
+        <option value="$PROJECT_DIR$/../test-api-express-mongo/src/domain.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/facet/getFacetRest.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/facet/testGetFacetInteg.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/root/testGetRootTreeInteg.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/trunk/deleteTrunkRest.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/trunk/testDeleteTrunkInteg.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/impact/getImpactRest.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/impact/testGetImpactInteg.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/spec/branch/testPostBranchSpec.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/const/validations.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/branch/postBranchRest.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/branch/testPostBranchInteg.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/mocha.opts" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/facet/testPutFacetInteg.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/facet/putFacetRest.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/spec/branch/testPutBranchSpec.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/root/testPutRootInteg.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/branch/putBranchRest.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/branch/testPutBranchInteg.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/database/gateau.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/branch/testGetBranchInteg.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/tank/getTankRest.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/database/lettres.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/util/calculations.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/tu/testCalculations.js" />
+        <option value="$PROJECT_DIR$/../items-service/test/test.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/database/papier.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/impactTank/getImpactTankRest.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/impactEntry/getImpactEntryRest.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/branch/getBranchRest.js" />
+        <option value="$PROJECT_DIR$/../items-service/src/items-service.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/tank/testGetTankInteg.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactTank/testGetImpactTankInteg.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/../api-tree/package.json" />
+    <package-json value="$PROJECT_DIR$/../web-blueforest/package.json" />
+    <package-json value="$PROJECT_DIR$/../test-api-express-mongo/package.json" />
+    <package-json value="$PROJECT_DIR$/../mongo-queries-blueforest/package.json" />
+    <package-json value="$PROJECT_DIR$/../unit-manip/package.json" />
+    <package-json value="$PROJECT_DIR$/../items-service/package.json" />
+    <package-json value="$PROJECT_DIR$/../errors-blueforest/package.json" />
+    <package-json value="$PROJECT_DIR$/../express-blueforest/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/../api-tree/package.json" />
+      <path value="$PROJECT_DIR$/../errors-blueforest/package.json" />
+      <path value="$PROJECT_DIR$/../express-blueforest/package.json" />
+      <path value="$PROJECT_DIR$/../items-service/package.json" />
+      <path value="$PROJECT_DIR$/../mongo-queries-blueforest/package.json" />
+      <path value="$PROJECT_DIR$/../test-api-express-mongo/package.json" />
+      <path value="$PROJECT_DIR$/../unit-manip/package.json" />
+      <path value="$PROJECT_DIR$/../web-blueforest/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="width" value="1918" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trees-intellij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trees-intellij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trees-intellij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scenarios" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trees-intellij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scenarios" type="462c0819:PsiDirectoryNode" />
+              <item name="integ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trees-intellij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scenarios" type="462c0819:PsiDirectoryNode" />
+              <item name="integ" type="462c0819:PsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trees-intellij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scenarios" type="462c0819:PsiDirectoryNode" />
+              <item name="integ" type="462c0819:PsiDirectoryNode" />
+              <item name="facet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trees-intellij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scenarios" type="462c0819:PsiDirectoryNode" />
+              <item name="integ" type="462c0819:PsiDirectoryNode" />
+              <item name="root" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trees-intellij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trees-intellij" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="branch" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../time" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/../api-tree/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\slima\WebstormProjects\web-blueforest\dist\blueforest.org\var\www\blueforest.org" />
+      <recent name="C:\Users\slima\WebstormProjects\web-blueforest\dist\blueforest.org\etc\nginx\blueforest.org" />
+      <recent name="C:\Users\slima\WebstormProjects\web-blueforest\dist\blueforest.org\etc" />
+      <recent name="C:\Users\slima\WebstormProjects\api-tree\src\service\trunk" />
+      <recent name="C:\Users\slima\WebstormProjects\api-tree\src\rest\trunk" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\slima\WebstormProjects\api-tree\src\rest\facet" />
+      <recent name="C:\Users\slima\WebstormProjects\api-tree\src\rest\impact" />
+      <recent name="C:\Users\slima\WebstormProjects\api-tree\src\rest\impactEntry" />
+      <recent name="C:\Users\slima\WebstormProjects\api-tree\test\scenarios\integ\impact" />
+      <recent name="C:\Users\slima\WebstormProjects\api-tree\test\files" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.GET ImpactTank.impact tank gateau">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="START" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <toRun type="js.build_tools.npm" name="API" />
+      <toRun type="js.build_tools.npm" name="DB INIT" />
+      <toRun type="js.build_tools.npm" name="WEB" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="API" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/../api-tree/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev-api" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="DB INIT" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/../api-tree/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test-init-db" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="WEB" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/../web-blueforest/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/../items-service/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="API facet" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="NODE_ENV" value="test" />
+        <env name="PORT" value="9000" />
+        <env name="MAIL_CONFIG_PATH" value="../secured/api-tree" />
+        <env name="MAIL_TEMPLATE_PATH" value="etc/api-tree/templates" />
+        <env name="REST_PATH" value="src/rest" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options>--grep facet --recursive --require babel-register --exit</extra-mocha-options>
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/../api-tree/test/</test-directory>
+      <recursive>false</recursive>
+    </configuration>
+    <configuration name="API" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="NODE_ENV" value="test" />
+        <env name="PORT" value="9000" />
+        <env name="MAIL_CONFIG_PATH" value="../secured/api-tree" />
+        <env name="MAIL_TEMPLATE_PATH" value="etc/api-tree/templates" />
+        <env name="REST_PATH" value="src/rest" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/../api-tree/test/</test-directory>
+      <recursive>false</recursive>
+    </configuration>
+    <configuration name="GET Branch.return branchs" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="NODE_ENV" value="test" />
+        <env name="PORT" value="9000" />
+        <env name="MAIL_CONFIG_PATH" value="../secured/api-tree" />
+        <env name="MAIL_TEMPLATE_PATH" value="etc/api-tree/templates" />
+        <env name="REST_PATH" value="src/rest" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/../api-tree/test/scenarios/integ/branch/testGetBranchInteg.js</test-file>
+      <test-names>
+        <name value="GET Branch" />
+        <name value="return branchs" />
+      </test-names>
+    </configuration>
+    <configuration name="GET ImpactTank.impact tank gateau" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="NODE_ENV" value="test" />
+        <env name="PORT" value="9000" />
+        <env name="MAIL_CONFIG_PATH" value="../secured/api-tree" />
+        <env name="MAIL_TEMPLATE_PATH" value="etc/api-tree/templates" />
+        <env name="REST_PATH" value="src/rest" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactTank/testGetImpactTankInteg.js</test-file>
+      <test-names>
+        <name value="GET ImpactTank" />
+        <name value="impact tank gateau" />
+      </test-names>
+    </configuration>
+    <configuration name="GET ImpactTank.impact tank papier A" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="NODE_ENV" value="test" />
+        <env name="PORT" value="9000" />
+        <env name="MAIL_CONFIG_PATH" value="../secured/api-tree" />
+        <env name="MAIL_TEMPLATE_PATH" value="etc/api-tree/templates" />
+        <env name="REST_PATH" value="src/rest" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactTank/testGetImpactTankInteg.js</test-file>
+      <test-names>
+        <name value="GET ImpactTank" />
+        <name value="impact tank papier A" />
+      </test-names>
+    </configuration>
+    <configuration name="GET Impacts entries.search impact entry" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="NODE_ENV" value="test" />
+        <env name="PORT" value="9000" />
+        <env name="MAIL_CONFIG_PATH" value="../secured/api-tree" />
+        <env name="MAIL_TEMPLATE_PATH" value="etc/api-tree/templates" />
+        <env name="REST_PATH" value="src/rest" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testGetImpactEntryInteg.js</test-file>
+      <test-names>
+        <name value="GET Impacts entries" />
+        <name value="search impact entry" />
+      </test-names>
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="NODE_ENV" value="test" />
+        <env name="PORT" value="9000" />
+        <env name="MAIL_CONFIG_PATH" value="../secured/api-tree" />
+        <env name="MAIL_TEMPLATE_PATH" value="etc/api-tree/templates" />
+        <env name="REST_PATH" value="src/rest" />
+      </envs>
+      <ui />
+      <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+    </configuration>
+    <list>
+      <item itemvalue="Compound.START" />
+      <item itemvalue="Mocha.API" />
+      <item itemvalue="Mocha.API facet" />
+      <item itemvalue="npm.DB INIT" />
+      <item itemvalue="npm.API" />
+      <item itemvalue="npm.WEB" />
+      <item itemvalue="Mocha.GET ImpactTank.impact tank papier A" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="Mocha.GET Impacts entries.search impact entry" />
+      <item itemvalue="Mocha.GET Branch.return branchs" />
+      <item itemvalue="Mocha.GET ImpactTank.impact tank gateau" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.GET ImpactTank.impact tank gateau" />
+        <item itemvalue="Mocha.GET Branch.return branchs" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="Mocha.GET Impacts entries.search impact entry" />
+        <item itemvalue="Mocha.GET ImpactTank.impact tank papier A" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59cf9afc-f9d6-4cc0-9801-90431ffd9ea6" name="Default" comment="" />
+      <created>1533138258038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533138258038</updated>
+      <workItem from="1533138260315" duration="7242000" />
+      <workItem from="1533192718947" duration="27260000" />
+      <workItem from="1533308613557" duration="6131000" />
+      <workItem from="1533367665558" duration="31990000" />
+      <workItem from="1533457456314" duration="3311000" />
+      <workItem from="1533539587336" duration="84958000" />
+      <workItem from="1533731032339" duration="17386000" />
+      <workItem from="1533798566177" duration="55577000" />
+      <workItem from="1533972052963" duration="8729000" />
+      <workItem from="1533989603935" duration="8487000" />
+      <workItem from="1534005804721" duration="36861000" />
+      <workItem from="1534230929359" duration="30279000" />
+      <workItem from="1534320869203" duration="96000" />
+    </task>
+    <task id="LOCAL-00001" summary="webpack-serve au lieu de webpack-dev-server">
+      <created>1533142393331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533142393331</updated>
+    </task>
+    <task id="LOCAL-00002" summary="webpack-serve au lieu de webpack-dev-server">
+      <created>1533143444508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1533143444508</updated>
+    </task>
+    <task id="LOCAL-00003" summary="reparation api-tree pour la prod">
+      <created>1533144127707</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1533144127707</updated>
+    </task>
+    <task id="LOCAL-00004" summary="reparation api-tree pour la prod">
+      <created>1533144773974</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1533144773974</updated>
+    </task>
+    <task id="LOCAL-00005" summary="import de trunk début, api">
+      <created>1533218404337</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1533218404337</updated>
+    </task>
+    <task id="LOCAL-00006" summary="import de trunk début, api">
+      <created>1533221607384</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1533221607384</updated>
+    </task>
+    <task id="LOCAL-00007" summary="pagination search partie API ok">
+      <created>1533313723795</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1533313723795</updated>
+    </task>
+    <task id="LOCAL-00008" summary="wip sur pagination côté web">
+      <created>1533314739190</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1533314739190</updated>
+    </task>
+    <task id="LOCAL-00009" summary="wip sur pagination côté web.&#10;génération des id coté api">
+      <created>1533370864100</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1533370864100</updated>
+    </task>
+    <task id="LOCAL-00010" summary="génération des id coté api OK">
+      <created>1533374687805</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1533374687805</updated>
+    </task>
+    <task id="LOCAL-00011" summary="tests api ok: Dans les tests: objectId en base, string en réponse de l'API.">
+      <created>1533382271477</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1533382271477</updated>
+    </task>
+    <task id="LOCAL-00012" summary="search api mais mais id dans le désordre.">
+      <created>1533384955234</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1533384955234</updated>
+    </task>
+    <task id="LOCAL-00013" summary="correction search trunk api ok">
+      <created>1533385679117</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1533385679117</updated>
+    </task>
+    <task id="LOCAL-00014" summary="infinite scroll sur search&#10;search debounced">
+      <created>1533387745707</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1533387745707</updated>
+    </task>
+    <task id="LOCAL-00015" summary="versions modules">
+      <created>1533388722553</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1533388722553</updated>
+    </task>
+    <task id="LOCAL-00016" summary="versions">
+      <created>1533388760522</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1533388760522</updated>
+    </task>
+    <task id="LOCAL-00017" summary="contain">
+      <created>1533392846654</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1533392846654</updated>
+    </task>
+    <task id="LOCAL-00018" summary="mise en forme liste avec nom longs&#10;affichage versions">
+      <created>1533392891245</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1533392891245</updated>
+    </task>
+    <task id="LOCAL-00019" summary="mise en forme liste avec nom longs&#10;affichage versions">
+      <created>1533392957639</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1533392957639</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ergo">
+      <created>1533394105712</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1533394105712</updated>
+    </task>
+    <task id="LOCAL-00021" summary="infinite scroll: pas de getmore si rendu moins de résultats que ps">
+      <created>1533394752263</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1533394752263</updated>
+    </task>
+    <task id="LOCAL-00022" summary="plus de clear password&#10;il faut être god pour importer ademe&#10;le user est ressorti du forage à l'ouverture de l'app&#10;le rest utilise le token du state&#10;les routes sont toutes en promises&#10;un bouton manuel sur search comp">
+      <created>1533460533702</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1533460533702</updated>
+    </task>
+    <task id="LOCAL-00023" summary="belle avancées">
+      <created>1533546976562</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1533546976562</updated>
+    </task>
+    <task id="LOCAL-00024" summary="findIndex exporté">
+      <created>1533546992817</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1533546992817</updated>
+    </task>
+    <task id="LOCAL-00025" summary="plus de lodash sur le web">
+      <created>1533550004531</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1533550004531</updated>
+    </task>
+    <task id="LOCAL-00026" summary="versions">
+      <created>1533550334230</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1533550334230</updated>
+    </task>
+    <task id="LOCAL-00027" summary="yarn files">
+      <created>1533550634481</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1533550634481</updated>
+    </task>
+    <task id="LOCAL-00028" summary="0.0.6">
+      <created>1533550953089</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1533550953089</updated>
+    </task>
+    <task id="LOCAL-00029" summary="0.2.2">
+      <created>1533550962359</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1533550962359</updated>
+    </task>
+    <task id="LOCAL-00030" summary="fileupload maison &lt;upload&gt;&#10;import de produits et impact entries ok&#10;import de produits csv en cours">
+      <created>1533577816750</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1533577816750</updated>
+    </task>
+    <task id="LOCAL-00031" summary=" nouvelle version de unit-manip">
+      <created>1533654927997</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1533654927997</updated>
+    </task>
+    <task id="LOCAL-00032" summary="toBaseQG {qt,unit}=&gt;{baseQt, g}">
+      <created>1533660084941</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1533660084941</updated>
+    </task>
+    <task id="LOCAL-00033" summary="refacto quantity START">
+      <created>1533712629427</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1533712629427</updated>
+    </task>
+    <task id="LOCAL-00034" summary="52-&gt;30 tests à corriger">
+      <created>1533748685836</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1533748685836</updated>
+    </task>
+    <task id="LOCAL-00035" summary="plus de grandeur dans les branches et les racines&#10;plus d'unité ni grandeur dans les requêtes GET, on se base sur 1">
+      <created>1533806634835</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1533806634835</updated>
+    </task>
+    <task id="LOCAL-00036" summary="recherche de applyquantity">
+      <created>1533814540993</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1533814540993</updated>
+    </task>
+    <task id="LOCAL-00037" summary="WIP sur impact tank">
+      <created>1533834809943</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1533834809943</updated>
+    </task>
+    <task id="LOCAL-00038" summary="API Trunks OK">
+      <created>1533913614589</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1533913614589</updated>
+    </task>
+    <task id="LOCAL-00039" summary="API Facets OK">
+      <created>1533980755017</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1533980755017</updated>
+    </task>
+    <task id="LOCAL-00040" summary="API Facets OK">
+      <created>1533998016523</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1533998016523</updated>
+    </task>
+    <task id="LOCAL-00041" summary="API Facets OK">
+      <created>1534182071516</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1534182071516</updated>
+    </task>
+    <task id="LOCAL-00042" summary="refacto lettre database">
+      <created>1534250266118</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1534250266118</updated>
+    </task>
+    <task id="LOCAL-00043" summary="api sans unités">
+      <created>1534320905336</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1534320905336</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GET_Impacts_entries_search_impact_entry - 2018.08.14 at 18h 42m 52s.xml">
+      <configuration name="GET Impacts entries.search impact entry" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="API - 2018.08.14 at 18h 43m 06s.xml">
+      <configuration name="API" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="GET_Branch_return_branchs - 2018.08.14 at 18h 45m 38s.xml">
+      <configuration name="GET Branch.return branchs" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="GET_Branch_return_branchs - 2018.08.14 at 18h 46m 12s.xml">
+      <configuration name="GET Branch.return branchs" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="GET_Branch_return_branchs - 2018.08.14 at 18h 46m 55s.xml">
+      <configuration name="GET Branch.return branchs" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="GET_Branch_return_branchs - 2018.08.14 at 18h 50m 30s.xml">
+      <configuration name="GET Branch.return branchs" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="GET_Branch_return_branchs - 2018.08.14 at 18h 51m 22s.xml">
+      <configuration name="GET Branch.return branchs" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="API - 2018.08.14 at 18h 52m 03s.xml">
+      <configuration name="API" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="API - 2018.08.14 at 18h 53m 25s.xml">
+      <configuration name="API" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="GET_ImpactTank_impact_tank_gateau - 2018.08.14 at 18h 54m 52s.xml">
+      <configuration name="GET ImpactTank.impact tank gateau" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="318307000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="0" width="1918" height="1057" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.49946696" weight="0.32985386" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.5634328" weight="0.43319416" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.8704691" side_tool="true" weight="0.56680584" />
+      <window_info id="npm" order="2" sideWeight="0.43055555" side_tool="true" type="SLIDING" weight="0.18390192" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.12953092" weight="0.73590815" />
+      <window_info id="Designer" order="4" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5694444" type="SLIDING" weight="0.18390192" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5346482" weight="0.4572025" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.336887" weight="0.6440501" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="npm" order="2" sideWeight="0.3933518" side_tool="true" visible="true" weight="0.25053304" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6066482" visible="true" weight="0.25053304" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.49946696" weight="0.32985386" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.21641791" weight="0.43319416" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.73507464" side_tool="true" visible="true" weight="0.6231733" />
+      <window_info id="Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.20042644" weight="0.3914405" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.26492536" visible="true" weight="0.6231733" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.42590618" weight="0.44050103" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="versions modules" />
+    <MESSAGE value="contain" />
+    <MESSAGE value="mise en forme liste avec nom longs&#10;affichage versions" />
+    <MESSAGE value="ergo" />
+    <MESSAGE value="infinite scroll: pas de getmore si rendu moins de résultats que ps" />
+    <MESSAGE value="plus de clear password&#10;il faut être god pour importer ademe&#10;le user est ressorti du forage à l'ouverture de l'app&#10;le rest utilise le token du state&#10;les routes sont toutes en promises&#10;un bouton manuel sur search comp" />
+    <MESSAGE value="belle avancées" />
+    <MESSAGE value="findIndex exporté" />
+    <MESSAGE value="plus de lodash sur le web" />
+    <MESSAGE value="versions" />
+    <MESSAGE value="yarn files" />
+    <MESSAGE value="0.0.6" />
+    <MESSAGE value="0.2.2" />
+    <MESSAGE value="fileupload maison &lt;upload&gt;&#10;import de produits et impact entries ok&#10;import de produits csv en cours" />
+    <MESSAGE value=" nouvelle version de unit-manip" />
+    <MESSAGE value="toBaseQG {qt,unit}=&gt;{baseQt, g}" />
+    <MESSAGE value="refacto quantity START" />
+    <MESSAGE value="52-&gt;30 tests à corriger" />
+    <MESSAGE value="plus de grandeur dans les branches et les racines&#10;plus d'unité ni grandeur dans les requêtes GET, on se base sur 1" />
+    <MESSAGE value="recherche de applyquantity" />
+    <MESSAGE value="WIP sur impact tank" />
+    <MESSAGE value="API Trunks OK" />
+    <MESSAGE value="API Facets OK" />
+    <MESSAGE value="refacto lettre database" />
+    <MESSAGE value="api sans unités" />
+    <option name="LAST_COMMIT_MESSAGE" value="api sans unités" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="24" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../mongo-queries-blueforest/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../items-service/items-service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="94" column="32" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../express-blueforest/src/run.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/spec/root/testDeleteRootSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-api-express-mongo/src/domain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/root/testGetRootTreeInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/facet/testGetFacetInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/facet/getFacetRest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="11" selection-start-line="9" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/trunk/deleteTrunkRest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/impact/getImpactRest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/trunk/testDeleteTrunkInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/spec/branch/testPostBranchSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/root/postRootRest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/const/paths.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/branch/testPostBranchInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/branch/postBranchRest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/const/validations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="60" column="24" lean-forward="true" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/mocha.opts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/auth/testPostMailInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/impact/testPutImpactInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test-api-express-mongo/node_modules/chai-http/lib/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="275" column="17" selection-start-line="275" selection-start-column="17" selection-end-line="275" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/facet/postFacetRest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/facet/putFacetRest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="51" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/facet/testPutFacetInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/spec/branch/testPutBranchSpec.js" />
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/root/testPutRootInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="62" lean-forward="true" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/root/putRootRest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="15" selection-start-line="15" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/branch/putBranchRest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/branch/testPutBranchInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/branch/testScenarioBranchInteg.js" />
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/root/testScenarioRootInteg.js" />
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/root/getRootRest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/branch/testGetBranchTreeInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/root/testGetRootInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/database/gateau.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/tank/getTankRest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/database/lettres.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/tu/testCalculations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../items-service/test/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mongo-queries-blueforest/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/util/calculations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/impactTank/getImpactTankRest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/database/papier.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="4" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/impactEntry/getImpactEntryRest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testGetImpactEntryInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/branch/testGetBranchInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/branch/getBranchRest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../items-service/src/items-service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="63" column="50" selection-start-line="63" selection-start-column="50" selection-end-line="63" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/impact/testGetImpactInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/tank/testGetTankInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactTank/testGetImpactTankInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="43" column="47" lean-forward="true" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>buttons</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>express-blueforest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
