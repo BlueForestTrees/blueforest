@@ -232,7 +232,7 @@
       <path value="$PROJECT_DIR$/../web-blueforest/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1" />
     <option name="width" value="1918" />
     <option name="height" value="1057" />
@@ -319,8 +319,9 @@
     <property name="GO_FMT" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../time" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../unit-manip" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/../api-tree/node_modules/mocha" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -360,14 +361,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Mocha.GET ImpactTank.impact tank gateau">
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="START" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
-      <toRun type="js.build_tools.npm" name="API" />
-      <toRun type="js.build_tools.npm" name="DB INIT" />
-      <toRun type="js.build_tools.npm" name="WEB" />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -406,6 +399,18 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="START" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <toRun type="js.build_tools.npm" name="API" />
+      <toRun type="js.build_tools.npm" name="DB INIT" />
+      <toRun type="js.build_tools.npm" name="WEB" />
+      <method v="2" />
+    </configuration>
     <configuration name="API" type="js.build_tools.npm" factoryName="npm">
       <package-json value="$PROJECT_DIR$/../api-tree/package.json" />
       <command value="run" />
@@ -414,6 +419,7 @@
       </scripts>
       <node-interpreter value="project" />
       <envs />
+      <method v="2" />
     </configuration>
     <configuration name="DB INIT" type="js.build_tools.npm" factoryName="npm">
       <package-json value="$PROJECT_DIR$/../api-tree/package.json" />
@@ -423,6 +429,7 @@
       </scripts>
       <node-interpreter value="project" />
       <envs />
+      <method v="2" />
     </configuration>
     <configuration name="WEB" type="js.build_tools.npm" factoryName="npm">
       <package-json value="$PROJECT_DIR$/../web-blueforest/package.json" />
@@ -432,6 +439,7 @@
       </scripts>
       <node-interpreter value="project" />
       <envs />
+      <method v="2" />
     </configuration>
     <configuration name="build" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/../items-service/package.json" />
@@ -441,6 +449,7 @@
       </scripts>
       <node-interpreter value="project" />
       <envs />
+      <method v="2" />
     </configuration>
     <configuration name="API facet" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
@@ -459,6 +468,7 @@
       <test-kind>DIRECTORY</test-kind>
       <test-directory>$PROJECT_DIR$/../api-tree/test/</test-directory>
       <recursive>false</recursive>
+      <method v="2" />
     </configuration>
     <configuration name="API" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
@@ -477,6 +487,7 @@
       <test-kind>DIRECTORY</test-kind>
       <test-directory>$PROJECT_DIR$/../api-tree/test/</test-directory>
       <recursive>false</recursive>
+      <method v="2" />
     </configuration>
     <configuration name="GET Branch.return branchs" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
@@ -498,6 +509,7 @@
         <name value="GET Branch" />
         <name value="return branchs" />
       </test-names>
+      <method v="2" />
     </configuration>
     <configuration name="GET ImpactTank.impact tank gateau" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
@@ -519,6 +531,7 @@
         <name value="GET ImpactTank" />
         <name value="impact tank gateau" />
       </test-names>
+      <method v="2" />
     </configuration>
     <configuration name="GET ImpactTank.impact tank papier A" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
@@ -540,6 +553,7 @@
         <name value="GET ImpactTank" />
         <name value="impact tank papier A" />
       </test-names>
+      <method v="2" />
     </configuration>
     <configuration name="GET Impacts entries.search impact entry" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
@@ -561,6 +575,7 @@
         <name value="GET Impacts entries" />
         <name value="search impact entry" />
       </test-names>
+      <method v="2" />
     </configuration>
     <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
@@ -579,6 +594,7 @@
       <test-kind>DIRECTORY</test-kind>
       <test-directory />
       <recursive>false</recursive>
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Compound.START" />
