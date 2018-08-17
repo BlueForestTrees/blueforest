@@ -12,7 +12,6 @@
       <module fileurl="file://$PROJECT_DIR$/../mongo-registry/mongo-registry.iml" filepath="$PROJECT_DIR$/../mongo-registry/mongo-registry.iml" />
       <module fileurl="file://$PROJECT_DIR$/../test-api-express-mongo/test-api-express-mongo.iml" filepath="$PROJECT_DIR$/../test-api-express-mongo/test-api-express-mongo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../unit-manip/unit-manip.iml" filepath="$PROJECT_DIR$/../unit-manip/unit-manip.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../unit-manip/unit-manip.iml" filepath="$PROJECT_DIR$/../unit-manip/unit-manip.iml" />
       <module fileurl="file://$PROJECT_DIR$/../web-blueforest/web-blueforest.iml" filepath="$PROJECT_DIR$/../web-blueforest/web-blueforest.iml" />
     </modules>
   </component>
