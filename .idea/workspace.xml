@@ -2,14 +2,15 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/../api-tree/src/rest/impact/postImpactRest.js" line="17" mnemonic="2" />
-    <bookmark url="file://$PROJECT_DIR$/../api-tree/src/rest/branch/getBranchRest.js" line="14" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59cf9afc-f9d6-4cc0-9801-90431ffd9ea6" name="Default" comment="WIP sur Compare">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web-blueforest/src/main/services/axis.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web-blueforest/src/main/services/axis.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/Compare.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/Compare.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/CompareRadar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/CompareRadar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-blueforest/src/test/tu/testAxis.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web-blueforest/src/test/tu/testAxis.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,41 +51,41 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="7054" />
+          <entry key="js" value="7827" />
           <entry key="json" value="22" />
-          <entry key="txt" value="319" />
-          <entry key="vue" value="2368" />
+          <entry key="txt" value="320" />
+          <entry key="vue" value="2769" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="22" />
-          <entry key="JavaScript" value="7054" />
-          <entry key="PLAIN_TEXT" value="319" />
-          <entry key="Vue.js" value="2368" />
+          <entry key="JavaScript" value="7827" />
+          <entry key="PLAIN_TEXT" value="320" />
+          <entry key="Vue.js" value="2769" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="2" />
-          <entry key="js" value="289" />
+          <entry key="js" value="295" />
           <entry key="json" value="11" />
           <entry key="local/BlueForestTreesDB/BranchCollection" value="3" />
           <entry key="local/BlueForestTreesDB/ImpactCollection" value="7" />
           <entry key="local/BlueForestTreesDB/ImpactEntryCollection" value="1" />
           <entry key="local/BlueForestTreesDB/TrunkCollection" value="3" />
           <entry key="local/BlueForestTreesDB/UserCollection" value="1" />
-          <entry key="vue" value="41" />
+          <entry key="vue" value="43" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="11" />
-          <entry key="JavaScript" value="289" />
+          <entry key="JavaScript" value="295" />
           <entry key="MONGO" value="15" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Vue.js" value="40" />
+          <entry key="Vue.js" value="42" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
@@ -92,23 +93,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/CompareRadar.vue">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/Compare.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="88" column="42" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
+            <state relative-caret-position="603">
+              <caret line="62" column="21" lean-forward="true" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+              <folding>
+                <element signature="e#350#418#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/services/axis.js">
+        <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/CompareRadar.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1455">
-              <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
+            <state relative-caret-position="180">
+              <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#4817#6048#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/tree/TreeHead.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/services/calculations.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="147" column="28" selection-start-line="147" selection-start-column="28" selection-end-line="147" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../api-tree/src/service/unit/grandeurService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="48" column="14" lean-forward="true" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -117,15 +160,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>items</find>
-      <find>hasBilanItems</find>
-      <find>Ener</find>
-      <find>tree-head</find>
-      <find>bilan</find>
-      <find>md6</find>
-      <find>withNameIdQtGrandeur</find>
-      <find>unit</find>
-      <find>grandeur</find>
       <find>_qt</find>
       <find>applyCoef</find>
       <find>multiplyAspec</find>
@@ -137,16 +171,25 @@
       <find>bqt:</find>
       <find>ratio:</find>
       <find>hasQuantity</find>
-      <find>console.log</find>
       <find>coefToBase</find>
       <find>Fraction</find>
       <find>qtUnitCoef</find>
       <find>text</find>
       <find>opacity</find>
-      <find>previousLeftLine</find>
       <find>hover</find>
       <find>sort(</find>
       <find>].tree</find>
+      <find>separate</find>
+      <find>[0]</find>
+      <find>common.left</find>
+      <find>leftLine</find>
+      <find>rightLine</find>
+      <find>previousLeftLine</find>
+      <find>console.log</find>
+      <find>console</find>
+      <find>pointer</find>
+      <find>goTree</find>
+      <find>bestQuantity</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;bqt&quot;</replace>
@@ -187,11 +230,12 @@
       <dir>C:\Users\slima\WebstormProjects\web-blueforest\node_modules\request-promise-lite</dir>
       <dir>C:\Users\slima\WebstormProjects\api-tree\test</dir>
       <dir>C:\Users\slima\WebstormProjects\api-tree\test\database</dir>
+      <dir>$PROJECT_DIR$/../unit-manip/test/unit</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../web-blueforest" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../unit-manip" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/../api-tree" value="master" />
@@ -208,7 +252,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../web-blueforest/src/main/store/actions/trunkActions.js" />
         <option value="$PROJECT_DIR$/../web-blueforest/src/main/store/mutation/treeMutations.js" />
         <option value="$PROJECT_DIR$/../api-tree/src/rest/root/getRootRest.js" />
         <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/root/testGetRootInteg.js" />
@@ -253,12 +296,13 @@
         <option value="$PROJECT_DIR$/../web-blueforest/src/main/vue/tree/Tree.vue" />
         <option value="$PROJECT_DIR$/../api-tree/src/service/trunk/postTrunkService.js" />
         <option value="$PROJECT_DIR$/../web-blueforest/src/test/setup.js" />
-        <option value="$PROJECT_DIR$/../web-blueforest/src/main/services/calculations.js" />
         <option value="$PROJECT_DIR$/../web-blueforest/src/main/store/actions/treeActions.js" />
         <option value="$PROJECT_DIR$/../web-blueforest/src/test/tu/testAxis.js" />
         <option value="$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/Compare.vue" />
         <option value="$PROJECT_DIR$/../web-blueforest/src/main/services/axis.js" />
         <option value="$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/CompareRadar.vue" />
+        <option value="$PROJECT_DIR$/../web-blueforest/src/main/services/calculations.js" />
+        <option value="$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js" />
       </list>
     </option>
   </component>
@@ -307,10 +351,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="799" />
-    <option name="y" value="210" />
-    <option name="width" value="950" />
-    <option name="height" value="810" />
+    <option name="x" value="960" />
+    <option name="y" value="-2" />
+    <option name="width" value="960" />
+    <option name="height" value="1082" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -342,66 +386,23 @@
           <expand>
             <path>
               <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="rest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="rest" type="462c0819:PsiDirectoryNode" />
-              <item name="branch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scenarios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scenarios" type="462c0819:PsiDirectoryNode" />
-              <item name="integ" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scenarios" type="462c0819:PsiDirectoryNode" />
-              <item name="integ" type="462c0819:PsiDirectoryNode" />
-              <item name="root" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
               <item name="unit-manip" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
               <item name="unit-manip" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit-manip" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit-manip" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="unit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
@@ -478,7 +479,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.POST ALL.post all">
+  <component name="RunManager" selected="Mocha.TU Grandeurs.best quantity Masse.">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -597,28 +598,7 @@
       <recursive>false</recursive>
       <method v="2" />
     </configuration>
-    <configuration name="Axis calculations" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs>
-        <env name="NODE_ENV" value="test" />
-        <env name="PORT" value="9000" />
-        <env name="MAIL_CONFIG_PATH" value="../secured/api-tree" />
-        <env name="MAIL_TEMPLATE_PATH" value="etc/api-tree/templates" />
-        <env name="REST_PATH" value="src/rest" />
-      </envs>
-      <ui>bdd</ui>
-      <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
-      <test-kind>SUITE</test-kind>
-      <test-file>$PROJECT_DIR$/../web-blueforest/src/test/tu/testAxis.js</test-file>
-      <test-names>
-        <name value="Axis calculations" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="Axis calculations.complete buildAxises" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+    <configuration name="Axis calculations.applyCoef" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
@@ -636,11 +616,11 @@
       <test-file>$PROJECT_DIR$/../web-blueforest/src/test/tu/testAxis.js</test-file>
       <test-names>
         <name value="Axis calculations" />
-        <name value="complete buildAxises" />
+        <name value="applyCoef" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="Axis calculations.minimal buildAxises" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+    <configuration name="Axis calculations.separate" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
@@ -658,7 +638,7 @@
       <test-file>$PROJECT_DIR$/../web-blueforest/src/test/tu/testAxis.js</test-file>
       <test-names>
         <name value="Axis calculations" />
-        <name value="minimal buildAxises" />
+        <name value="separate" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -684,7 +664,29 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="POST ALL.post all" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+    <configuration name="TU Grandeurs.best quantity Masse" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="NODE_ENV" value="test" />
+        <env name="PORT" value="9000" />
+        <env name="MAIL_CONFIG_PATH" value="../secured/api-tree" />
+        <env name="MAIL_TEMPLATE_PATH" value="etc/api-tree/templates" />
+        <env name="REST_PATH" value="src/rest" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js</test-file>
+      <test-names>
+        <name value="TU Grandeurs" />
+        <name value="best quantity Masse" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="TU Grandeurs.best quantity Masse." type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
@@ -699,10 +701,11 @@
       <ui>bdd</ui>
       <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
       <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/../api-tree/test/scenarios/integ/import/testImportAll.js</test-file>
+      <test-file>$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js</test-file>
       <test-names>
-        <name value="POST ALL" />
-        <name value="post all" />
+        <name value="TU Grandeurs" />
+        <name value="best quantity Masse" />
+        <name value="" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -732,19 +735,19 @@
       <item itemvalue="npm.DB INIT" />
       <item itemvalue="npm.API" />
       <item itemvalue="npm.WEB" />
+      <item itemvalue="Mocha.Axis calculations.separate" />
+      <item itemvalue="Mocha.Axis calculations.applyCoef" />
       <item itemvalue="Mocha.Axis calculations.updateRatios" />
-      <item itemvalue="Mocha.Axis calculations" />
-      <item itemvalue="Mocha.Axis calculations.minimal buildAxises" />
-      <item itemvalue="Mocha.Axis calculations.complete buildAxises" />
-      <item itemvalue="Mocha.POST ALL.post all" />
+      <item itemvalue="Mocha.TU Grandeurs.best quantity Masse" />
+      <item itemvalue="Mocha.TU Grandeurs.best quantity Masse." />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Mocha.POST ALL.post all" />
-        <item itemvalue="Mocha.Axis calculations.complete buildAxises" />
-        <item itemvalue="Mocha.Axis calculations.minimal buildAxises" />
-        <item itemvalue="Mocha.Axis calculations" />
+        <item itemvalue="Mocha.TU Grandeurs.best quantity Masse." />
+        <item itemvalue="Mocha.TU Grandeurs.best quantity Masse" />
+        <item itemvalue="Mocha.Axis calculations.applyCoef" />
         <item itemvalue="Mocha.Axis calculations.updateRatios" />
+        <item itemvalue="Mocha.Axis calculations.separate" />
       </list>
     </recent_temporary>
   </component>
@@ -1074,35 +1077,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Axis_calculations_multiplyBqts - 2018.08.19 at 10h 39m 27s.xml">
-      <configuration name="Axis calculations.multiplyBqts" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Axis_calculations_separate - 2018.08.20 at 15h 37m 49s.xml">
+      <configuration name="Axis calculations.separate" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Axis_calculations_applyCoef - 2018.08.19 at 10h 41m 09s.xml">
+    <history-entry file="Axis_calculations_applyCoef - 2018.08.20 at 15h 38m 32s.xml">
       <configuration name="Axis calculations.applyCoef" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Axis_calculations_applyCoef - 2018.08.19 at 10h 41m 34s.xml">
-      <configuration name="Axis calculations.applyCoef" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="Axis_calculations_updateRatios - 2018.08.19 at 10h 44m 13s.xml">
+    <history-entry file="Axis_calculations_updateRatios - 2018.08.20 at 15h 38m 37s.xml">
       <configuration name="Axis calculations.updateRatios" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Axis_calculations - 2018.08.19 at 10h 44m 35s.xml">
-      <configuration name="Axis calculations" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Axis_calculations_updateRatios - 2018.08.20 at 15h 44m 29s.xml">
+      <configuration name="Axis calculations.updateRatios" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Axis_calculations - 2018.08.19 at 10h 46m 59s.xml">
-      <configuration name="Axis calculations" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Axis_calculations_updateRatios - 2018.08.20 at 15h 46m 11s.xml">
+      <configuration name="Axis calculations.updateRatios" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Axis_calculations - 2018.08.19 at 10h 48m 37s.xml">
-      <configuration name="Axis calculations" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Axis_calculations_updateRatios - 2018.08.20 at 15h 46m 28s.xml">
+      <configuration name="Axis calculations.updateRatios" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Axis_calculations_minimal_buildAxises - 2018.08.19 at 11h 05m 53s.xml">
-      <configuration name="Axis calculations.minimal buildAxises" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Axis_calculations_applyCoef - 2018.08.20 at 15h 55m 48s.xml">
+      <configuration name="Axis calculations.applyCoef" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Axis_calculations_complete_buildAxises - 2018.08.19 at 11h 06m 20s.xml">
-      <configuration name="Axis calculations.complete buildAxises" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="TU_Grandeurs_best_quantity_Masse - 2018.08.20 at 17h 08m 30s.xml">
+      <configuration name="TU Grandeurs.best quantity Masse" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="POST_ALL_post_all - 2018.08.20 at 14h 32m 34s.xml">
-      <configuration name="POST ALL.post all" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="TU_Grandeurs_best_quantity_Masse_ - 2018.08.20 at 17h 09m 09s.xml">
+      <configuration name="TU Grandeurs.best quantity Masse." configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="TU_Grandeurs_best_quantity_Masse_ - 2018.08.20 at 17h 09m 52s.xml">
+      <configuration name="TU Grandeurs.best quantity Masse." configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
@@ -1118,10 +1121,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-2" width="1920" height="1082" extended-state="7" />
+    <frame x="0" y="-2" width="1920" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" internal_type="SLIDING" order="0" sideWeight="0.5694444" visible="true" weight="0.09178229" />
+      <window_info content_ui="combo" id="Project" internal_type="SLIDING" order="0" sideWeight="0.5694444" visible="true" weight="0.22518677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info x="787" y="63" width="345" height="952" id="npm" internal_type="SLIDING" order="2" sideWeight="0.43055555" weight="0.17235859" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -1130,7 +1133,7 @@
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.3361793" weight="0.57457983" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5346482" weight="0.4572025" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" sideWeight="0.85165423" side_tool="true" visible="true" weight="0.21743697" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" sideWeight="0.85165423" side_tool="true" visible="true" weight="0.41491598" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -1251,6 +1254,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="108" column="39" selection-start-line="108" selection-start-column="39" selection-end-line="108" selection-end-column="39" />
+          <folding>
+            <element signature="e#2173#2210#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1302,13 +1308,6 @@
     <entry file="file://$PROJECT_DIR$/../unit-manip/test/unit/testUnitCalculations.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../unit-manip/dist/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1332,6 +1331,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1447,20 +1449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../api-tree/src/service/unit/grandeurService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="46" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/tree/TreeHead.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/tree/Branches.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1535,13 +1523,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
           <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/services/calculations.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1552,37 +1536,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/Compare.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/test/tu/testAxis.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/import/testImportAll.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/services/axis.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1455">
-          <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1593,10 +1550,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/test/tu/testAxis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="149" column="14" selection-start-line="149" selection-start-column="14" selection-end-line="149" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/Compare.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="62" column="21" lean-forward="true" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+          <folding>
+            <element signature="e#350#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/services/axis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="83" column="116" selection-start-line="83" selection-start-column="116" selection-end-line="83" selection-end-column="116" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/CompareRadar.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="88" column="42" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
+        <state relative-caret-position="180">
+          <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+          <folding>
+            <element signature="e#4817#6048#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/tree/TreeHead.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/services/calculations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/service/unit/grandeurService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="48" column="14" lean-forward="true" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="147" column="28" selection-start-line="147" selection-start-column="28" selection-end-line="147" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
