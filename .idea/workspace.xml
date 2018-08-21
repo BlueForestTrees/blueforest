@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../api-tree/src/rest/impact/postImpactRest.js" line="17" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/../api-tree/src/rest/impact/postImpactRest.js" line="18" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59cf9afc-f9d6-4cc0-9801-90431ffd9ea6" name="Default" comment="Compare radial OK">
+    <list default="true" id="59cf9afc-f9d6-4cc0-9801-90431ffd9ea6" name="Default" comment="Compare radial, sous-titre et bug">
+      <change afterPath="$PROJECT_DIR$/../api-tree/src/const/damages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/CompareRibbon.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-tree/src/rest/impact/postImpactRest.js" beforeDir="false" afterPath="$PROJECT_DIR$/../api-tree/src/rest/impact/postImpactRest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-tree/src/service/impactEntry/postImpactEntryService.js" beforeDir="false" afterPath="$PROJECT_DIR$/../api-tree/src/service/impactEntry/postImpactEntryService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-tree/src/util/excel.js" beforeDir="false" afterPath="$PROJECT_DIR$/../api-tree/src/util/excel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-tree/test/mocha.opts" beforeDir="false" afterPath="$PROJECT_DIR$/../api-tree/test/mocha.opts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testImportImpacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testImportImpacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testImportImpactsUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testImportImpactsUtils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testPostImpactEntryInteg.js" beforeDir="false" afterPath="$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testPostImpactEntryInteg.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../unit-manip/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../unit-manip/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-blueforest/src/main/services/axis.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web-blueforest/src/main/services/axis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/Compare.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/Compare.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/CompareRadar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/CompareRadar.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,52 +50,55 @@
     <session id="-1867444993">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="8114" />
+          <entry key="js" value="8605" />
           <entry key="json" value="22" />
-          <entry key="txt" value="338" />
-          <entry key="vue" value="3154" />
+          <entry key="opts" value="2" />
+          <entry key="txt" value="357" />
+          <entry key="vue" value="4388" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="22" />
-          <entry key="JavaScript" value="8114" />
-          <entry key="PLAIN_TEXT" value="338" />
-          <entry key="Vue.js" value="3154" />
+          <entry key="JavaScript" value="8605" />
+          <entry key="PLAIN_TEXT" value="359" />
+          <entry key="Vue.js" value="4388" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="2" />
-          <entry key="js" value="315" />
+          <entry key="js" value="345" />
           <entry key="json" value="11" />
           <entry key="local/BlueForestTreesDB/BranchCollection" value="3" />
-          <entry key="local/BlueForestTreesDB/ImpactCollection" value="7" />
-          <entry key="local/BlueForestTreesDB/ImpactEntryCollection" value="1" />
+          <entry key="local/BlueForestTreesDB/ImpactCollection" value="9" />
+          <entry key="local/BlueForestTreesDB/ImpactEntryCollection" value="2" />
           <entry key="local/BlueForestTreesDB/TrunkCollection" value="3" />
           <entry key="local/BlueForestTreesDB/UserCollection" value="1" />
-          <entry key="vue" value="46" />
+          <entry key="opts" value="1" />
+          <entry key="vue" value="49" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="11" />
-          <entry key="JavaScript" value="315" />
-          <entry key="MONGO" value="15" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Vue.js" value="45" />
+          <entry key="JavaScript" value="345" />
+          <entry key="MONGO" value="18" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Vue.js" value="48" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
@@ -91,44 +106,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/impactEntry/postImpactEntryRest.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/CompareRadar.vue">
+        <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/impact/postImpactRest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="99" column="30" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="30" />
-              <folding>
-                <element signature="e#4633#4711#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="65">
+              <caret line="43" column="58" lean-forward="true" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/services/calculations.js">
+        <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/import/testImportAll.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../unit-manip/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1165">
-              <caret line="146" column="53" lean-forward="true" selection-start-line="146" selection-start-column="53" selection-end-line="146" selection-end-column="53" />
-            </state>
-          </provider>
+        <entry file="mongo://local/BlueForestTreesDB/ImpactCollection">
+          <provider selected="true" editor-type-id="MongoData" />
         </entry>
       </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ratio:</find>
-      <find>hasQuantity</find>
-      <find>coefToBase</find>
-      <find>Fraction</find>
       <find>qtUnitCoef</find>
       <find>text</find>
       <find>opacity</find>
@@ -145,7 +158,6 @@
       <find>console</find>
       <find>pointer</find>
       <find>goTree</find>
-      <find>bestQuantity</find>
       <find>qtUNitName</find>
       <find>bqtGToQtUnit</find>
       <find>grandeur</find>
@@ -155,9 +167,13 @@
       <find>this.axises.common[this.curI]</find>
       <find>gKeyTobUnit</find>
       <find>base</find>
+      <find>bestQuantity</find>
+      <find>grid</find>
+      <find>lineHeight</find>
+      <find>isin</find>
+      <find>10000</find>
     </findStrings>
     <replaceStrings>
-      <replace>500</replace>
       <replace>withBqtG</replace>
       <replace>&quot;Surf&quot;</replace>
       <replace>1000, &quot;Mass&quot;</replace>
@@ -187,6 +203,7 @@
       <replace>bqt</replace>
       <replace>g:&quot;Mass&quot;, _bqt:2, ratio:</replace>
       <replace>this.curAxis</replace>
+      <replace>this.lineHeight</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\slima\WebstormProjects\web-blueforest</dir>
@@ -200,7 +217,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../web-blueforest" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../api-tree" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/../api-tree" value="master" />
@@ -217,18 +234,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/branch/testGetBranchInteg.js" />
-        <option value="$PROJECT_DIR$/../web-blueforest/src/main/store/actions/branchActions.js" />
-        <option value="$PROJECT_DIR$/../api-tree/src/topService/linkTopService.js" />
-        <option value="$PROJECT_DIR$/../api-tree/src/rest/link/putLinkRest.js" />
-        <option value="$PROJECT_DIR$/../api-tree/src/rest/link/deleteLinkRest.js" />
-        <option value="$PROJECT_DIR$/../api-tree/src/rest/root/deleteRootRest.js" />
-        <option value="$PROJECT_DIR$/../api-tree/src/rest/validations.js" />
-        <option value="$PROJECT_DIR$/../api-tree/src/rest/root/postRootRest.js" />
-        <option value="$PROJECT_DIR$/../api-tree/src/rest/root/putRootRest.js" />
-        <option value="$PROJECT_DIR$/../api-tree/src/rest/branch/putBranchRest.js" />
-        <option value="$PROJECT_DIR$/../web-blueforest/src/main/const/on.js" />
-        <option value="$PROJECT_DIR$/../web-blueforest/src/main/store/actions/linkActions.js" />
         <option value="$PROJECT_DIR$/../api-tree/test/database/papier.js" />
         <option value="$PROJECT_DIR$/../test-api-express-mongo/src/util.js" />
         <option value="$PROJECT_DIR$/../test-api-express-mongo/test/testUtil.js" />
@@ -244,7 +249,6 @@
         <option value="$PROJECT_DIR$/../web-blueforest/src/main/store/actions/impactActions.js" />
         <option value="$PROJECT_DIR$/../express-blueforest/src/express-blueforest.js" />
         <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/impact/testPostImpactInteg.js" />
-        <option value="$PROJECT_DIR$/../api-tree/src/rest/impact/postImpactRest.js" />
         <option value="$PROJECT_DIR$/../api-tree/src/service/unit/grandeurService.js" />
         <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/grandeur/testGetGrandeurInteg.js" />
         <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/import/testImportAll.js" />
@@ -257,17 +261,30 @@
         <option value="$PROJECT_DIR$/../api-tree/src/service/trunk/postTrunkService.js" />
         <option value="$PROJECT_DIR$/../web-blueforest/src/test/setup.js" />
         <option value="$PROJECT_DIR$/../web-blueforest/src/test/tu/testAxis.js" />
-        <option value="$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/Compare.vue" />
-        <option value="$PROJECT_DIR$/../web-blueforest/src/main/services/axis.js" />
         <option value="$PROJECT_DIR$/../unit-manip/test/mock.js" />
         <option value="$PROJECT_DIR$/../web-blueforest/src/test/grandeurServiceMock.js" />
         <option value="$PROJECT_DIR$/../unit-manip/test/grandeurServiceMock.js" />
         <option value="$PROJECT_DIR$/../unit-manip/test/unit/testUnitInit.js" />
-        <option value="$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js" />
-        <option value="$PROJECT_DIR$/../web-blueforest/src/main/services/calculations.js" />
         <option value="$PROJECT_DIR$/../web-blueforest/src/main/store/actions/treeActions.js" />
+        <option value="$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js" />
         <option value="$PROJECT_DIR$/../unit-manip/src/index.js" />
+        <option value="$PROJECT_DIR$/../web-blueforest/src/main/services/calculations.js" />
+        <option value="$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/CompareRibbon.js" />
+        <option value="$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/Compare.vue" />
+        <option value="$PROJECT_DIR$/../web-blueforest/src/main/services/axis.js" />
+        <option value="$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/CompareRibbon.vue" />
         <option value="$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/CompareRadar.vue" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/tu/testReadXlsx.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/util/excel.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/const/impacts.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testPostImpactEntryInteg.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/const/damages.js" />
+        <option value="$PROJECT_DIR$/../api-tree/src/service/impactEntry/postImpactEntryService.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testImportImpacts.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/spec/impactEntry/testPostImpactEntrySpec.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testImportImpactsUtils.js" />
+        <option value="$PROJECT_DIR$/../api-tree/test/mocha.opts" />
+        <option value="$PROJECT_DIR$/../api-tree/src/rest/impact/postImpactRest.js" />
       </list>
     </option>
   </component>
@@ -316,10 +333,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="960" />
-    <option name="y" value="89" />
-    <option name="width" value="950" />
-    <option name="height" value="810" />
+    <option name="y" value="-2" />
+    <option name="width" value="960" />
+    <option name="height" value="1082" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -346,35 +362,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unit-manip" type="462c0819:PsiDirectoryNode" />
+              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unit-manip" type="462c0819:PsiDirectoryNode" />
+              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unit-manip" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blueforest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unit-manip" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="unit" type="462c0819:PsiDirectoryNode" />
+              <item name="api-tree" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="const" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -392,7 +403,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -503,16 +514,6 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="build" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/../unit-manip/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="build" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
     <configuration name="API facet" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -551,6 +552,72 @@
       <recursive>false</recursive>
       <method v="2" />
     </configuration>
+    <configuration name="Imports utils.convert ademe damage parse to blueforest impact" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="NODE_ENV" value="test" />
+        <env name="PORT" value="9000" />
+        <env name="MAIL_CONFIG_PATH" value="../secured/api-tree" />
+        <env name="MAIL_TEMPLATE_PATH" value="etc/api-tree/templates" />
+        <env name="REST_PATH" value="src/rest" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testImportImpactsUtils.js</test-file>
+      <test-names>
+        <name value="Imports utils" />
+        <name value="convert ademe damage parse to blueforest impact" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Imports utils.convert ademe impact parse to blueforest impact" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="NODE_ENV" value="test" />
+        <env name="PORT" value="9000" />
+        <env name="MAIL_TEMPLATE_PATH" value="etc/api-tree/templates" />
+        <env name="REST_PATH" value="src/rest" />
+        <env name="MAIL_CONFIG_PATH" value="../secured/api-tree" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testImportImpactsUtils.js</test-file>
+      <test-names>
+        <name value="Imports utils" />
+        <name value="convert ademe impact parse to blueforest impact" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Imports.first impact imports entry" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="NODE_ENV" value="test" />
+        <env name="PORT" value="9000" />
+        <env name="MAIL_CONFIG_PATH" value="../secured/api-tree" />
+        <env name="MAIL_TEMPLATE_PATH" value="etc/api-tree/templates" />
+        <env name="REST_PATH" value="src/rest" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testImportImpacts.js</test-file>
+      <test-names>
+        <name value="Imports" />
+        <name value="first impact imports entry" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="POST ALL.post all" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -559,9 +626,9 @@
       <envs>
         <env name="NODE_ENV" value="test" />
         <env name="PORT" value="9000" />
-        <env name="MAIL_CONFIG_PATH" value="../secured/api-tree" />
         <env name="MAIL_TEMPLATE_PATH" value="etc/api-tree/templates" />
         <env name="REST_PATH" value="src/rest" />
+        <env name="MAIL_CONFIG_PATH" value="../secured/api-tree" />
       </envs>
       <ui>bdd</ui>
       <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
@@ -570,51 +637,6 @@
       <test-names>
         <name value="POST ALL" />
         <name value="post all" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="TU Grandeurs.best quantity Masse" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs>
-        <env name="NODE_ENV" value="test" />
-        <env name="PORT" value="9000" />
-        <env name="MAIL_CONFIG_PATH" value="../secured/api-tree" />
-        <env name="MAIL_TEMPLATE_PATH" value="etc/api-tree/templates" />
-        <env name="REST_PATH" value="src/rest" />
-      </envs>
-      <ui>bdd</ui>
-      <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
-      <test-kind>SUITE</test-kind>
-      <test-file>$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js</test-file>
-      <test-names>
-        <name value="TU Grandeurs" />
-        <name value="best quantity Masse" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="TU Grandeurs.best quantity Masse.1 Nomb =&gt; 1 Nomb" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs>
-        <env name="NODE_ENV" value="test" />
-        <env name="PORT" value="9000" />
-        <env name="MAIL_CONFIG_PATH" value="../secured/api-tree" />
-        <env name="MAIL_TEMPLATE_PATH" value="etc/api-tree/templates" />
-        <env name="REST_PATH" value="src/rest" />
-      </envs>
-      <ui>bdd</ui>
-      <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
-      <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js</test-file>
-      <test-names>
-        <name value="TU Grandeurs" />
-        <name value="best quantity Masse" />
-        <name value="1 Nomb =&gt; 1 Nomb" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -637,7 +659,7 @@
       <recursive>false</recursive>
       <method v="2" />
     </configuration>
-    <configuration name="test/unit/testUnitGrandeurs.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+    <configuration name="xlsx read.build an impact from file &amp; fileDescription" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory>$PROJECT_DIR$/../api-tree</working-directory>
@@ -651,8 +673,12 @@
       </envs>
       <ui>bdd</ui>
       <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
-      <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js</test-file>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/../api-tree/test/scenarios/tu/testReadXlsx.js</test-file>
+      <test-names>
+        <name value="xlsx read" />
+        <name value="build an impact from file &amp; fileDescription" />
+      </test-names>
       <method v="2" />
     </configuration>
     <list>
@@ -662,19 +688,19 @@
       <item itemvalue="npm.DB INIT" />
       <item itemvalue="npm.API" />
       <item itemvalue="npm.WEB" />
-      <item itemvalue="Mocha.test/unit/testUnitGrandeurs.js" />
-      <item itemvalue="Mocha.TU Grandeurs.best quantity Masse.1 Nomb =&gt; 1 Nomb" />
-      <item itemvalue="Mocha.TU Grandeurs.best quantity Masse" />
-      <item itemvalue="npm.build" />
+      <item itemvalue="Mocha.xlsx read.build an impact from file &amp; fileDescription" />
+      <item itemvalue="Mocha.Imports.first impact imports entry" />
       <item itemvalue="Mocha.POST ALL.post all" />
+      <item itemvalue="Mocha.Imports utils.convert ademe impact parse to blueforest impact" />
+      <item itemvalue="Mocha.Imports utils.convert ademe damage parse to blueforest impact" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.build" />
         <item itemvalue="Mocha.POST ALL.post all" />
-        <item itemvalue="Mocha.TU Grandeurs.best quantity Masse" />
-        <item itemvalue="Mocha.TU Grandeurs.best quantity Masse.1 Nomb =&gt; 1 Nomb" />
-        <item itemvalue="Mocha.test/unit/testUnitGrandeurs.js" />
+        <item itemvalue="Mocha.Imports utils.convert ademe damage parse to blueforest impact" />
+        <item itemvalue="Mocha.Imports utils.convert ademe impact parse to blueforest impact" />
+        <item itemvalue="Mocha.Imports.first impact imports entry" />
+        <item itemvalue="Mocha.xlsx read.build an impact from file &amp; fileDescription" />
       </list>
     </recent_temporary>
   </component>
@@ -1004,34 +1030,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test_unit_testUnitUtil_js - 2018.08.20 at 17h 22m 21s.xml">
-      <configuration name="test/unit/testUnitUtil.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="API - 2018.08.21 at 16h 42m 22s.xml">
+      <configuration name="API" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test_unit_testUnitInit_js - 2018.08.20 at 17h 22m 29s.xml">
-      <configuration name="test/unit/testUnitInit.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="API - 2018.08.21 at 16h 43m 16s.xml">
+      <configuration name="API" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="test_unit_testUnitGrandeurs_js - 2018.08.20 at 17h 22m 38s.xml">
-      <configuration name="test/unit/testUnitGrandeurs.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Imports_utils_convert_ademe_impact_parse_to_blueforest_impact - 2018.08.21 at 16h 44m 16s.xml">
+      <configuration name="Imports utils.convert ademe impact parse to blueforest impact" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="TU_Grandeurs_best_quantity_Masse_1_Nomb_=__1_Nomb - 2018.08.20 at 17h 23m 15s.xml">
-      <configuration name="TU Grandeurs.best quantity Masse.1 Nomb =&gt; 1 Nomb" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Imports_utils_convert_ademe_damage_parse_to_blueforest_impact - 2018.08.21 at 16h 44m 58s.xml">
+      <configuration name="Imports utils.convert ademe damage parse to blueforest impact" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="TU_Grandeurs_best_quantity_Masse_1_Nomb_=__1_Nomb - 2018.08.20 at 17h 28m 10s.xml">
-      <configuration name="TU Grandeurs.best quantity Masse.1 Nomb =&gt; 1 Nomb" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Imports_utils_convert_ademe_damage_parse_to_blueforest_impact - 2018.08.21 at 16h 45m 20s.xml">
+      <configuration name="Imports utils.convert ademe damage parse to blueforest impact" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="TU_Grandeurs_best_quantity_Masse - 2018.08.20 at 17h 28m 42s.xml">
-      <configuration name="TU Grandeurs.best quantity Masse" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Imports_utils_convert_ademe_damage_parse_to_blueforest_impact - 2018.08.21 at 16h 45m 40s.xml">
+      <configuration name="Imports utils.convert ademe damage parse to blueforest impact" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="TU_Grandeurs_best_quantity_Masse - 2018.08.20 at 17h 28m 48s.xml">
-      <configuration name="TU Grandeurs.best quantity Masse" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="API - 2018.08.21 at 16h 48m 26s.xml">
+      <configuration name="API" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="TU_Grandeurs_best_quantity_Masse - 2018.08.20 at 17h 29m 36s.xml">
-      <configuration name="TU Grandeurs.best quantity Masse" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="POST_ALL_post_all - 2018.08.21 at 09h 08m 23s.xml">
+    <history-entry file="POST_ALL_post_all - 2018.08.21 at 16h 49m 17s.xml">
       <configuration name="POST ALL.post all" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="POST_ALL_post_all - 2018.08.21 at 09h 32m 27s.xml">
+    <history-entry file="POST_ALL_post_all - 2018.08.21 at 16h 50m 21s.xml">
+      <configuration name="POST ALL.post all" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="POST_ALL_post_all - 2018.08.21 at 16h 52m 58s.xml">
       <configuration name="POST ALL.post all" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
@@ -1048,19 +1074,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-2" width="1920" height="1082" extended-state="7" />
-    <editor active="true" />
+    <frame x="0" y="-2" width="1920" height="1082" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" internal_type="SLIDING" order="0" sideWeight="0.5694444" weight="0.20064034" />
+      <window_info content_ui="combo" id="Project" internal_type="SLIDING" order="0" sideWeight="0.5694444" visible="true" weight="0.1670224" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info x="787" y="63" width="345" height="952" id="npm" internal_type="SLIDING" order="2" sideWeight="0.43055555" visible="true" weight="0.15421557" />
+      <window_info x="787" y="63" width="345" height="952" id="npm" internal_type="SLIDING" order="2" sideWeight="0.43055555" weight="0.18890075" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Designer" order="4" />
-      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info active="true" anchor="bottom" id="Messages" order="0" sideWeight="0.36979723" visible="true" weight="0.32983193" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.44983992" weight="0.57457983" />
       <window_info anchor="bottom" id="Message" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.24546425" weight="0.3760504" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" sideWeight="0.5501601" side_tool="true" visible="true" weight="0.14705883" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.24599786" weight="0.23844537" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" sideWeight="0.75400215" side_tool="true" visible="true" weight="0.7405462" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -1076,7 +1101,7 @@
       <window_info anchor="right" id="Database" order="3" weight="0.32977587" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Mongo Explorer" order="6" weight="0.25773746" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" visible="true" weight="0.25773746" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" internal_type="SLIDING" order="0" sideWeight="0.5694444" weight="0.23906083" />
@@ -1149,7 +1174,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="plus de lodash sur le web" />
     <MESSAGE value="versions" />
     <MESSAGE value="yarn files" />
     <MESSAGE value="0.0.6" />
@@ -1174,59 +1198,10 @@
     <MESSAGE value="unités de base alignées sur celles de l'ADEME&#10;vue du tree ameliorée" />
     <MESSAGE value="WIP sur Compare" />
     <MESSAGE value="Compare radial OK" />
-    <option name="LAST_COMMIT_MESSAGE" value="Compare radial OK" />
+    <MESSAGE value="Compare radial, sous-titre et bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="Compare radial, sous-titre et bug" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../api-tree/src/util/csv.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../express-blueforest/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="55" lean-forward="true" selection-start-column="55" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../express-blueforest/src/run.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/trunk/getTrunkRest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../unit-manip/test/unit/testUnitCalculations.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web-blueforest/node_modules/unit-manip/dist/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/store/actions/facetActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/store/actions/rootActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/rest/api.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1238,28 +1213,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testImportImpactsUtils.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testPostImpactEntryInteg.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-343" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../api-tree/src/service/impactEntry/postImpactEntryService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testImportImpacts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -1291,20 +1244,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/impactEntry/postImpactEntryRest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="98" selection-start-line="23" selection-start-column="98" selection-end-line="23" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/store/actions/impactActions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1312,16 +1255,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="28" column="31" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/impact/postImpactRest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1364,13 +1297,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/tree/Tree.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -1420,29 +1346,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="149" column="14" selection-start-line="149" selection-start-column="14" selection-end-line="149" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/Compare.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="62" column="21" lean-forward="true" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
-          <folding>
-            <element signature="e#350#418#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/services/axis.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="771">
-          <caret line="83" column="116" selection-start-line="83" selection-start-column="116" selection-end-line="83" selection-end-column="116" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1481,16 +1384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="151" column="95" selection-start-line="151" selection-start-column="95" selection-end-line="151" selection-end-column="95" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../api-tree/src/service/unit/grandeurService.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -1509,40 +1402,163 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
           <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/import/testImportAll.js">
+    <entry file="file://$PROJECT_DIR$/../unit-manip/test/unit/testUnitGrandeurs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="675">
+          <caret line="183" column="11" selection-start-line="183" selection-start-column="11" selection-end-line="183" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../unit-manip/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1165">
-          <caret line="146" column="53" lean-forward="true" selection-start-line="146" selection-start-column="53" selection-end-line="146" selection-end-column="53" />
+        <state relative-caret-position="345">
+          <caret line="157" column="60" selection-start-line="157" selection-start-column="60" selection-end-line="157" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/services/calculations.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="180">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/CompareRadar.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="99" column="30" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="30" />
+        <state relative-caret-position="225">
+          <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/Compare.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/compare/CompareRibbon.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/services/axis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="83" column="38" selection-start-line="83" selection-start-column="38" selection-end-line="83" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web-blueforest/src/main/vue/tree/Tree.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/tu/testReadXlsx.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="52" column="14" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/const/impacts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/util/csv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/const/damages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/util/excel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testImportImpacts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="23" column="88" selection-start-line="23" selection-start-column="88" selection-end-line="23" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testImportImpactsUtils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="82" column="31" selection-start-line="82" selection-start-column="31" selection-end-line="82" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/spec/impactEntry/testPostImpactEntrySpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/impactEntry/testPostImpactEntryInteg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="65" column="54" lean-forward="true" selection-start-line="65" selection-start-column="54" selection-end-line="65" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/mocha.opts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/test/scenarios/integ/import/testImportAll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/service/impactEntry/postImpactEntryService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
           <folding>
-            <element signature="e#4633#4711#0" expanded="true" />
+            <element signature="e#0#44#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/impactEntry/postImpactEntryRest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../api-tree/src/rest/impact/postImpactRest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="43" column="58" lean-forward="true" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
         </state>
       </provider>
     </entry>
