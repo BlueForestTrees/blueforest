@@ -6,7 +6,6 @@
     <mapping directory="$PROJECT_DIR$/../express-blueforest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../infra-blueforest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../items-service" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../mongo-connexion" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../mongo-registry" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../test-api-express-mongo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../unit-manip" vcs="Git" />
