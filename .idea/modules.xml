@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../api-categorie/api-categorie.iml" filepath="$PROJECT_DIR$/../api-categorie/api-categorie.iml" />
       <module fileurl="file://$PROJECT_DIR$/../api-tree/api-tree.iml" filepath="$PROJECT_DIR$/../api-tree/api-tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/../express-blueforest/express-blueforest.iml" filepath="$PROJECT_DIR$/../express-blueforest/express-blueforest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../infra-blueforest/infra-blueforest.iml" filepath="$PROJECT_DIR$/../infra-blueforest/infra-blueforest.iml" />
