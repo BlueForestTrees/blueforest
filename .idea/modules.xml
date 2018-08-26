@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/../api-import/api-import.iml" filepath="$PROJECT_DIR$/../api-import/api-import.iml" />
       <module fileurl="file://$PROJECT_DIR$/../api-tree/api-tree.iml" filepath="$PROJECT_DIR$/../api-tree/api-tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/../express-blueforest/express-blueforest.iml" filepath="$PROJECT_DIR$/../express-blueforest/express-blueforest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../grandeur/grandeur.iml" filepath="$PROJECT_DIR$/../grandeur/grandeur.iml" />
       <module fileurl="file://$PROJECT_DIR$/../infra-blueforest/infra-blueforest.iml" filepath="$PROJECT_DIR$/../infra-blueforest/infra-blueforest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../items-service/items-service.iml" filepath="$PROJECT_DIR$/../items-service/items-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mongo-registry/mongo-registry.iml" filepath="$PROJECT_DIR$/../mongo-registry/mongo-registry.iml" />
