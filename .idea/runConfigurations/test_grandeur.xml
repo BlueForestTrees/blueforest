@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="test grandeur" type="mocha-javascript-test-runner" factoryName="Mocha">
+    <node-interpreter>project</node-interpreter>
+    <node-options />
+    <working-directory>$PROJECT_DIR$/../grandeur</working-directory>
+    <pass-parent-env>true</pass-parent-env>
+    <envs>
+      <env name="NODE_ENV" value="test" />
+      <env name="PORT" value="9003" />
+      <env name="REST_PATH" value="src/rest" />
+      <env name="DEBUG" value="api:*,test:*" />
+    </envs>
+    <ui>bdd</ui>
+    <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
+    <test-kind>DIRECTORY</test-kind>
+    <test-directory>$PROJECT_DIR$/../grandeur/test</test-directory>
+    <recursive>true</recursive>
+    <method v="2" />
+  </configuration>
+</component>

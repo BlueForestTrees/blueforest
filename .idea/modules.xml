@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../auth/auth.iml" filepath="$PROJECT_DIR$/../auth/auth.iml" />
       <module fileurl="file://$PROJECT_DIR$/../categorie/categorie.iml" filepath="$PROJECT_DIR$/../categorie/categorie.iml" />
       <module fileurl="file://$PROJECT_DIR$/../express/express.iml" filepath="$PROJECT_DIR$/../express/express.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../feedback/feedback.iml" filepath="$PROJECT_DIR$/../feedback/feedback.iml" />
       <module fileurl="file://$PROJECT_DIR$/../grandeur/grandeur.iml" filepath="$PROJECT_DIR$/../grandeur/grandeur.iml" />
       <module fileurl="file://$PROJECT_DIR$/../import/import.iml" filepath="$PROJECT_DIR$/../import/import.iml" />
       <module fileurl="file://$PROJECT_DIR$/../infra/infra.iml" filepath="$PROJECT_DIR$/../infra/infra.iml" />
       <module fileurl="file://$PROJECT_DIR$/../items-service/items-service.iml" filepath="$PROJECT_DIR$/../items-service/items-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mongo-registry/mongo-registry.iml" filepath="$PROJECT_DIR$/../mongo-registry/mongo-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../secured/secured.iml" filepath="$PROJECT_DIR$/../secured/secured.iml" />
       <module fileurl="file://$PROJECT_DIR$/../template-api/template-api.iml" filepath="$PROJECT_DIR$/../template-api/template-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/../test-api/test-api.iml" filepath="$PROJECT_DIR$/../test-api/test-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/../trees/trees.iml" filepath="$PROJECT_DIR$/../trees/trees.iml" />
