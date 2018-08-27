@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/../api-categorie" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../api-import" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../api-tree" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../express-blueforest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../categorie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../express" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../grandeur" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../infra-blueforest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../import" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../infra" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../items-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../mongo-registry" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../template-api" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../test-api-express-mongo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../test-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../trees" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../unit-manip" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../web-blueforest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web" vcs="Git" />
   </component>
 </project>

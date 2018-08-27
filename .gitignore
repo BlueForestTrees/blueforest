@@ -51,3 +51,16 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+# git clone https://github.com/BlueForestTrees/categorie.git
+# git clone https://github.com/BlueForestTrees/express.git
+# git clone https://github.com/BlueForestTrees/grandeur.git
+# git clone https://github.com/BlueForestTrees/import.git
+# git clone https://github.com/BlueForestTrees/items-service.git
+# git clone https://github.com/BlueForestTrees/mongo-registry.git
+# git clone https://github.com/BlueForestTrees/template-api.git
+# git clone https://github.com/BlueForestTrees/test-api.git
+# git clone https://github.com/BlueForestTrees/trees.git
+# git clone https://github.com/BlueForestTrees/unit-manip.git
+# git clone https://github.com/BlueForestTrees/web.git
+# git clone https://github.com/BlueForestTrees/infra.git
