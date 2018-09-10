@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/../auth" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../categorie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../client" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../express" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../facet" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../feedback" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../grandeur" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../impact" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../import" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../infra" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../items-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../mock" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../mongo-registry" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../template-api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../test-api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../trees" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../unit-manip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../user" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../web" vcs="Git" />
   </component>
 </project>

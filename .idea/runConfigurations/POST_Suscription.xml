@@ -1,0 +1,24 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="POST Suscription" type="mocha-javascript-test-runner" factoryName="Mocha" nameIsGenerated="true">
+    <node-interpreter>project</node-interpreter>
+    <node-options />
+    <working-directory>$PROJECT_DIR$/../user</working-directory>
+    <pass-parent-env>true</pass-parent-env>
+    <envs>
+      <env name="DEBUG" value="api:*,test:*" />
+      <env name="NODE_ENV" value="test" />
+      <env name="PORT" value="9099" />
+      <env name="REST_PATH" value="src/rest" />
+      <env name="MAIL_TEMPLATE_PATH" value="etc/user/templates" />
+      <env name="MAIL_CONFIG_PATH" value="../secured/user" />
+    </envs>
+    <ui>bdd</ui>
+    <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
+    <test-kind>SUITE</test-kind>
+    <test-file>$PROJECT_DIR$/../user/test/testPostMailInteg.js</test-file>
+    <test-names>
+      <name value="POST Suscription" />
+    </test-names>
+    <method v="2" />
+  </configuration>
+</component>
