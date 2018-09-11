@@ -9,6 +9,8 @@
       <env name="NODE_ENV" value="test" />
       <env name="PORT" value="9099" />
       <env name="REST_PATH" value="src/rest" />
+      <env name="MAIL_TEMPLATE_PATH" value="etc/user/templates" />
+      <env name="MAIL_CONFIG_PATH" value="../secured/user" />
     </envs>
     <ui>bdd</ui>
     <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
