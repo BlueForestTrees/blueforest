@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/../express/express.iml" filepath="$PROJECT_DIR$/../express/express.iml" />
       <module fileurl="file://$PROJECT_DIR$/../facet/facet.iml" filepath="$PROJECT_DIR$/../facet/facet.iml" />
       <module fileurl="file://$PROJECT_DIR$/../feedback/feedback.iml" filepath="$PROJECT_DIR$/../feedback/feedback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../film/film.iml" filepath="$PROJECT_DIR$/../film/film.iml" />
       <module fileurl="file://$PROJECT_DIR$/../grandeur/grandeur.iml" filepath="$PROJECT_DIR$/../grandeur/grandeur.iml" />
       <module fileurl="file://$PROJECT_DIR$/../impact/impact.iml" filepath="$PROJECT_DIR$/../impact/impact.iml" />
       <module fileurl="file://$PROJECT_DIR$/../import/import.iml" filepath="$PROJECT_DIR$/../import/import.iml" />
