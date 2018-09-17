@@ -15,6 +15,7 @@
     <mapping directory="$PROJECT_DIR$/../message" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../mock" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../mongo-registry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../player" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../template-api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../test-api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../trees" vcs="Git" />
