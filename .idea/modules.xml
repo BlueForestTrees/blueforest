@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../categorie/categorie.iml" filepath="$PROJECT_DIR$/../categorie/categorie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../draw/draw.iml" filepath="$PROJECT_DIR$/../draw/draw.iml" />
       <module fileurl="file://$PROJECT_DIR$/../express/express.iml" filepath="$PROJECT_DIR$/../express/express.iml" />
       <module fileurl="file://$PROJECT_DIR$/../facet/facet.iml" filepath="$PROJECT_DIR$/../facet/facet.iml" />
       <module fileurl="file://$PROJECT_DIR$/../feedback/feedback.iml" filepath="$PROJECT_DIR$/../feedback/feedback.iml" />
