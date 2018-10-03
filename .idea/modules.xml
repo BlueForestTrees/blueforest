@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/../attribute/attribute.iml" filepath="$PROJECT_DIR$/../attribute/attribute.iml" />
       <module fileurl="file://$PROJECT_DIR$/../categorie/categorie.iml" filepath="$PROJECT_DIR$/../categorie/categorie.iml" />
       <module fileurl="file://$PROJECT_DIR$/../express/express.iml" filepath="$PROJECT_DIR$/../express/express.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../facet/facet.iml" filepath="$PROJECT_DIR$/../facet/facet.iml" />
       <module fileurl="file://$PROJECT_DIR$/../feedback/feedback.iml" filepath="$PROJECT_DIR$/../feedback/feedback.iml" />
       <module fileurl="file://$PROJECT_DIR$/../grandeur/grandeur.iml" filepath="$PROJECT_DIR$/../grandeur/grandeur.iml" />
       <module fileurl="file://$PROJECT_DIR$/../impact/impact.iml" filepath="$PROJECT_DIR$/../impact/impact.iml" />
@@ -14,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/../message/message.iml" filepath="$PROJECT_DIR$/../message/message.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mock/mock.iml" filepath="$PROJECT_DIR$/../mock/mock.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mongo-registry/mongo-registry.iml" filepath="$PROJECT_DIR$/../mongo-registry/mongo-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../off-import/off-import.iml" filepath="$PROJECT_DIR$/../off-import/off-import.iml" />
       <module fileurl="file://$PROJECT_DIR$/../secured/secured.iml" filepath="$PROJECT_DIR$/../secured/secured.iml" />
       <module fileurl="file://$PROJECT_DIR$/../template-api/template-api.iml" filepath="$PROJECT_DIR$/../template-api/template-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/../test-api/test-api.iml" filepath="$PROJECT_DIR$/../test-api/test-api.iml" />

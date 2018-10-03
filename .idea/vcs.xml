@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../categorie" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../express" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../facet" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../feedback" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../grandeur" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../impact" vcs="Git" />
@@ -14,6 +15,7 @@
     <mapping directory="$PROJECT_DIR$/../message" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../mock" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../mongo-registry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../off-import" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../template-api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../test-api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../trees" vcs="Git" />
