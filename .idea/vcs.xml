@@ -5,7 +5,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../categorie" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../express" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../facet" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../feedback" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../grandeur" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../impact" vcs="Git" />

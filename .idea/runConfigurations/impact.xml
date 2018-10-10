@@ -1,9 +1,9 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="facet" type="js.build_tools.npm" factoryName="npm">
+  <configuration default="false" name="impact" type="js.build_tools.npm" factoryName="npm" nameIsGenerated="true">
     <package-json value="$PROJECT_DIR$/../attribute/package.json" />
     <command value="run" />
     <scripts>
-      <script value="facet" />
+      <script value="impact" />
     </scripts>
     <node-interpreter value="project" />
     <envs />
