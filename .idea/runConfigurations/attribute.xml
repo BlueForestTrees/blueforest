@@ -1,0 +1,23 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="attribute" type="mocha-javascript-test-runner" factoryName="Mocha">
+    <node-interpreter>project</node-interpreter>
+    <node-options />
+    <working-directory>$PROJECT_DIR$/../attribute</working-directory>
+    <pass-parent-env>true</pass-parent-env>
+    <envs>
+      <env name="DEBUG" value="api:*,test:*" />
+      <env name="NODE_ENV" value="test" />
+      <env name="PORT" value="9099" />
+      <env name="REST_PATH" value="src/rest" />
+      <env name="MAIL_TEMPLATE_PATH" value="etc/user/templates" />
+      <env name="MAIL_CONFIG_PATH" value="../secured/user" />
+      <env name="NAME" value="attrTest" />
+    </envs>
+    <ui>bdd</ui>
+    <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
+    <test-kind>DIRECTORY</test-kind>
+    <test-directory>$PROJECT_DIR$/../attribute/test</test-directory>
+    <recursive>true</recursive>
+    <method v="2" />
+  </configuration>
+</component>
