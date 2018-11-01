@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/../message/message.iml" filepath="$PROJECT_DIR$/../message/message.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mock/mock.iml" filepath="$PROJECT_DIR$/../mock/mock.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mongo-registry/mongo-registry.iml" filepath="$PROJECT_DIR$/../mongo-registry/mongo-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nosqlclient/nosqlclient.iml" filepath="$PROJECT_DIR$/../nosqlclient/nosqlclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/../off-import/off-import.iml" filepath="$PROJECT_DIR$/../off-import/off-import.iml" />
       <module fileurl="file://$PROJECT_DIR$/../search-alim/search-alim.iml" filepath="$PROJECT_DIR$/../search-alim/search-alim.iml" />
       <module fileurl="file://$PROJECT_DIR$/../secured/secured.iml" filepath="$PROJECT_DIR$/../secured/secured.iml" />
