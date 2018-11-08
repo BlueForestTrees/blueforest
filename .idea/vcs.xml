@@ -13,6 +13,7 @@
     <mapping directory="$PROJECT_DIR$/../infra" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../items-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../message" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../messager" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../mock" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../mongo-registry" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../off-import" vcs="Git" />
