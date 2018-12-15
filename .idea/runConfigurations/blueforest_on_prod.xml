@@ -1,9 +1,9 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="blueforest" type="js.build_tools.npm" factoryName="npm">
+  <configuration default="false" name="blueforest-on-prod" type="js.build_tools.npm" factoryName="npm">
     <package-json value="$PROJECT_DIR$/../web/package.json" />
     <command value="run" />
     <scripts>
-      <script value="dev" />
+      <script value="dev-on-prod" />
     </scripts>
     <node-interpreter value="project" />
     <envs />
