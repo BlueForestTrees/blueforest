@@ -1,7 +1,8 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="test import" type="mocha-javascript-test-runner" factoryName="Mocha">
+  <configuration default="false" name="test import" type="mocha-javascript-test-runner">
     <node-interpreter>project</node-interpreter>
     <node-options />
+    <mocha-package>$PROJECT_DIR$/../import/node_modules/mocha</mocha-package>
     <working-directory>$PROJECT_DIR$/../import</working-directory>
     <pass-parent-env>true</pass-parent-env>
     <envs>
