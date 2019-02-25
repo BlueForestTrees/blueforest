@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/../info/info.iml" filepath="$PROJECT_DIR$/../info/info.iml" />
       <module fileurl="file://$PROJECT_DIR$/../infra/infra.iml" filepath="$PROJECT_DIR$/../infra/infra.iml" />
       <module fileurl="file://$PROJECT_DIR$/../items-service/items-service.iml" filepath="$PROJECT_DIR$/../items-service/items-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kube/kube.iml" filepath="$PROJECT_DIR$/../kube/kube.iml" />
       <module fileurl="file://$PROJECT_DIR$/../message/message.iml" filepath="$PROJECT_DIR$/../message/message.iml" />
       <module fileurl="file://$PROJECT_DIR$/../messager/messager.iml" filepath="$PROJECT_DIR$/../messager/messager.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mock/mock.iml" filepath="$PROJECT_DIR$/../mock/mock.iml" />
