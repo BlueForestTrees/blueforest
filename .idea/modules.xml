@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../attribute/attribute.iml" filepath="$PROJECT_DIR$/../attribute/attribute.iml" />
       <module fileurl="file://$PROJECT_DIR$/../categorie/categorie.iml" filepath="$PROJECT_DIR$/../categorie/categorie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../closer/closer.iml" filepath="$PROJECT_DIR$/../closer/closer.iml" />
       <module fileurl="file://$PROJECT_DIR$/../express/express.iml" filepath="$PROJECT_DIR$/../express/express.iml" />
       <module fileurl="file://$PROJECT_DIR$/../game/game.iml" filepath="$PROJECT_DIR$/../game/game.iml" />
       <module fileurl="file://$PROJECT_DIR$/../gateway/gateway.iml" filepath="$PROJECT_DIR$/../gateway/gateway.iml" />
@@ -12,11 +13,12 @@
       <module fileurl="file://$PROJECT_DIR$/../info/info.iml" filepath="$PROJECT_DIR$/../info/info.iml" />
       <module fileurl="file://$PROJECT_DIR$/../infra/infra.iml" filepath="$PROJECT_DIR$/../infra/infra.iml" />
       <module fileurl="file://$PROJECT_DIR$/../items-service/items-service.iml" filepath="$PROJECT_DIR$/../items-service/items-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../kube/kube.iml" filepath="$PROJECT_DIR$/../kube/kube.iml" />
       <module fileurl="file://$PROJECT_DIR$/../message/message.iml" filepath="$PROJECT_DIR$/../message/message.iml" />
       <module fileurl="file://$PROJECT_DIR$/../messager/messager.iml" filepath="$PROJECT_DIR$/../messager/messager.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mock/mock.iml" filepath="$PROJECT_DIR$/../mock/mock.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mongo-registry/mongo-registry.iml" filepath="$PROJECT_DIR$/../mongo-registry/mongo-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mq-search/mq-search.iml" filepath="$PROJECT_DIR$/../mq-search/mq-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mq-upsert-delete/mq-upsert-delete.iml" filepath="$PROJECT_DIR$/../mq-upsert-delete/mq-upsert-delete.iml" />
       <module fileurl="file://$PROJECT_DIR$/../off-import/off-import.iml" filepath="$PROJECT_DIR$/../off-import/off-import.iml" />
       <module fileurl="file://$PROJECT_DIR$/../secured/secured.iml" filepath="$PROJECT_DIR$/../secured/secured.iml" />
       <module fileurl="file://$PROJECT_DIR$/../selection/selection.iml" filepath="$PROJECT_DIR$/../selection/selection.iml" />

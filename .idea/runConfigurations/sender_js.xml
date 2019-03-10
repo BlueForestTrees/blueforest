@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sender.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="test/sender.js" working-dir="$PROJECT_DIR$/../messager">
+    <envs>
+      <env name="DEBUG" value="api:*" />
+    </envs>
+    <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
+      <profiling allow-runtime-heap-snapshot="true" />
+    </EXTENSION>
+    <method v="2" />
+  </configuration>
+</component>
