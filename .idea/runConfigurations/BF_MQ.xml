@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="BF-MQ" type="CompoundRunConfigurationType">
+    <toRun name="game" type="js.build_tools.npm" />
+    <toRun name="facet" type="js.build_tools.npm" />
+    <toRun name="trees" type="js.build_tools.npm" />
+    <toRun name="messages" type="js.build_tools.npm" />
+    <toRun name="grandeur" type="js.build_tools.npm" />
+    <toRun name="blueforest-on-dev" type="js.build_tools.npm" />
+    <toRun name="selection" type="js.build_tools.npm" />
+    <toRun name="impact" type="js.build_tools.npm" />
+    <toRun name="categorie" type="js.build_tools.npm" />
+    <toRun name="user" type="js.build_tools.npm" />
+    <toRun name="info" type="js.build_tools.npm" />
+    <method v="2" />
+  </configuration>
+</component>
