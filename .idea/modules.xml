@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/../attribute/attribute.iml" filepath="$PROJECT_DIR$/../attribute/attribute.iml" />
       <module fileurl="file://$PROJECT_DIR$/../categorie/categorie.iml" filepath="$PROJECT_DIR$/../categorie/categorie.iml" />
       <module fileurl="file://$PROJECT_DIR$/../closer/closer.iml" filepath="$PROJECT_DIR$/../closer/closer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../draw/draw.iml" filepath="$PROJECT_DIR$/../draw/draw.iml" />
       <module fileurl="file://$PROJECT_DIR$/../express/express.iml" filepath="$PROJECT_DIR$/../express/express.iml" />
       <module fileurl="file://$PROJECT_DIR$/../film-api/film-api.iml" filepath="$PROJECT_DIR$/../film-api/film-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/../game/game.iml" filepath="$PROJECT_DIR$/../game/game.iml" />
@@ -22,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/../mq-search/mq-search.iml" filepath="$PROJECT_DIR$/../mq-search/mq-search.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mq-upsert-delete/mq-upsert-delete.iml" filepath="$PROJECT_DIR$/../mq-upsert-delete/mq-upsert-delete.iml" />
       <module fileurl="file://$PROJECT_DIR$/../off-import/off-import.iml" filepath="$PROJECT_DIR$/../off-import/off-import.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../search/search.iml" filepath="$PROJECT_DIR$/../search/search.iml" />
       <module fileurl="file://$PROJECT_DIR$/../secured/secured.iml" filepath="$PROJECT_DIR$/../secured/secured.iml" />
       <module fileurl="file://$PROJECT_DIR$/../selection/selection.iml" filepath="$PROJECT_DIR$/../selection/selection.iml" />
       <module fileurl="file://$PROJECT_DIR$/../template-api/template-api.iml" filepath="$PROJECT_DIR$/../template-api/template-api.iml" />

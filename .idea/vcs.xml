@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../categorie" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../closer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../draw" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../express" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../film-api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../game" vcs="Git" />
@@ -22,6 +23,7 @@
     <mapping directory="$PROJECT_DIR$/../mq-search" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../mq-upsert-delete" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../off-import" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../search" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../selection" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../template-api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../test-api" vcs="Git" />
