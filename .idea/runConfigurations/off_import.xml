@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="off" type="js.build_tools.npm">
+  <configuration default="false" name="off-import" type="js.build_tools.npm">
     <package-json value="$PROJECT_DIR$/../off-import/package.json" />
     <command value="run" />
     <scripts>

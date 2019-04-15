@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../adm-import/adm-import.iml" filepath="$PROJECT_DIR$/../adm-import/adm-import.iml" />
       <module fileurl="file://$PROJECT_DIR$/../attribute/attribute.iml" filepath="$PROJECT_DIR$/../attribute/attribute.iml" />
       <module fileurl="file://$PROJECT_DIR$/../categorie/categorie.iml" filepath="$PROJECT_DIR$/../categorie/categorie.iml" />
       <module fileurl="file://$PROJECT_DIR$/../closer/closer.iml" filepath="$PROJECT_DIR$/../closer/closer.iml" />
@@ -11,7 +12,6 @@
       <module fileurl="file://$PROJECT_DIR$/../game/game.iml" filepath="$PROJECT_DIR$/../game/game.iml" />
       <module fileurl="file://$PROJECT_DIR$/../gateway/gateway.iml" filepath="$PROJECT_DIR$/../gateway/gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/../grandeur/grandeur.iml" filepath="$PROJECT_DIR$/../grandeur/grandeur.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../import/import.iml" filepath="$PROJECT_DIR$/../import/import.iml" />
       <module fileurl="file://$PROJECT_DIR$/../info/info.iml" filepath="$PROJECT_DIR$/../info/info.iml" />
       <module fileurl="file://$PROJECT_DIR$/../infra/infra.iml" filepath="$PROJECT_DIR$/../infra/infra.iml" />
       <module fileurl="file://$PROJECT_DIR$/../items-service/items-service.iml" filepath="$PROJECT_DIR$/../items-service/items-service.iml" />
