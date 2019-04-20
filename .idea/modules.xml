@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/../messager/messager.iml" filepath="$PROJECT_DIR$/../messager/messager.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mock/mock.iml" filepath="$PROJECT_DIR$/../mock/mock.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mongo-registry/mongo-registry.iml" filepath="$PROJECT_DIR$/../mongo-registry/mongo-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mq-impact-tank/mq-impact-tank.iml" filepath="$PROJECT_DIR$/../mq-impact-tank/mq-impact-tank.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mq-search/mq-search.iml" filepath="$PROJECT_DIR$/../mq-search/mq-search.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mq-upsert-delete/mq-upsert-delete.iml" filepath="$PROJECT_DIR$/../mq-upsert-delete/mq-upsert-delete.iml" />
       <module fileurl="file://$PROJECT_DIR$/../off-import/off-import.iml" filepath="$PROJECT_DIR$/../off-import/off-import.iml" />

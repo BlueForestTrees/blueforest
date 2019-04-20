@@ -20,6 +20,7 @@
     <mapping directory="$PROJECT_DIR$/../messager" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../mock" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../mongo-registry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../mq-impact-tank" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../mq-search" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../mq-upsert-delete" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../off-import" vcs="Git" />
