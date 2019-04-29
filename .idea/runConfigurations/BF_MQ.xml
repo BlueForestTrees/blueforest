@@ -1,13 +1,13 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="BF-MQ" type="CompoundRunConfigurationType">
-    <toRun name="mq-impact" type="js.build_tools.npm" />
-    <toRun name="mq-trunk" type="js.build_tools.npm" />
-    <toRun name="mq-search" type="js.build_tools.npm" />
-    <toRun name="mq-facet" type="js.build_tools.npm" />
-    <toRun name="mq-root" type="js.build_tools.npm" />
-    <toRun name="mq-impact-tank" type="js.build_tools.npm" />
-    <toRun name="mq-game" type="js.build_tools.npm" />
     <toRun name="mq-info" type="js.build_tools.npm" />
+    <toRun name="mq-trunk" type="js.build_tools.npm" />
+    <toRun name="mq-impact" type="js.build_tools.npm" />
+    <toRun name="mq-game" type="js.build_tools.npm" />
+    <toRun name="mq-facet" type="js.build_tools.npm" />
+    <toRun name="mq-impact-tank" type="js.build_tools.npm" />
+    <toRun name="mq-search" type="js.build_tools.npm" />
+    <toRun name="mq-root" type="js.build_tools.npm" />
     <method v="2" />
   </configuration>
 </component>
