@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="mq-impact" type="js.build_tools.npm">
+  <configuration default="false" name="mq-impact" type="js.build_tools.npm" folderName="mq">
     <package-json value="$PROJECT_DIR$/../mq-upsert-delete/package.json" />
     <command value="run" />
     <scripts>

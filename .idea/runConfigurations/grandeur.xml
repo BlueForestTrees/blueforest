@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="grandeur" type="js.build_tools.npm" factoryName="npm">
+  <configuration default="false" name="grandeur" type="js.build_tools.npm" folderName="bf">
     <package-json value="$PROJECT_DIR$/../grandeur/package.json" />
     <command value="run" />
     <scripts>

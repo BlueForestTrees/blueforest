@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="trees" type="js.build_tools.npm" factoryName="npm">
+  <configuration default="false" name="trees" type="js.build_tools.npm" folderName="bf">
     <package-json value="$PROJECT_DIR$/../trees/package.json" />
     <command value="run" />
     <scripts>

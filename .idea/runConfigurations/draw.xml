@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="draw" type="js.build_tools.npm" factoryName="npm">
+  <configuration default="false" name="draw" type="js.build_tools.npm" folderName="bf">
     <package-json value="$PROJECT_DIR$/../draw/package.json" />
     <command value="run" />
     <scripts>

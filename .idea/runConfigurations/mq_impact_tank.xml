@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="mq-impact-tank" type="js.build_tools.npm">
+  <configuration default="false" name="mq-impact-tank" type="js.build_tools.npm" folderName="mq">
     <package-json value="$PROJECT_DIR$/../mq-impact-tank/package.json" />
     <command value="run" />
     <scripts>

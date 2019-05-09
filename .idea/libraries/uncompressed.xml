@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="uncompressed">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../facet/node_modules/node-unzip-2/testData/uncompressed/archive.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../facet/node_modules/node-unzip-2/testData/uncompressed/lorem.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

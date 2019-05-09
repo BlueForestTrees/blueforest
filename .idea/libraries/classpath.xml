@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="classpath">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../off-import/talend/poms/jobs/process/off_bf_0.1/target/classpath.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

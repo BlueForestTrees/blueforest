@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="archive1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../facet/node_modules/node-unzip-2/testData/compressed-flags-set/archive.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

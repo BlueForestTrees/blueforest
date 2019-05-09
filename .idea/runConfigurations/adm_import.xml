@@ -1,9 +1,9 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="facet" type="js.build_tools.npm" folderName="bf">
-    <package-json value="$PROJECT_DIR$/../attribute/package.json" />
+  <configuration default="false" name="adm-import" type="js.build_tools.npm" folderName="import">
+    <package-json value="$PROJECT_DIR$/../adm-import/package.json" />
     <command value="run" />
     <scripts>
-      <script value="facet" />
+      <script value="dev" />
     </scripts>
     <node-interpreter value="project" />
     <envs />

@@ -1,12 +1,12 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="off-import" type="js.build_tools.npm">
-    <package-json value="$PROJECT_DIR$/../off-import/package.json" />
-    <command value="run" />
-    <scripts>
-      <script value="dev" />
-    </scripts>
-    <node-interpreter value="project" />
-    <envs />
+  <configuration default="false" name="off-import" type="NodeJSConfigurationType" singleton="false" path-to-js-file="src/index.js" working-dir="$PROJECT_DIR$/../off-import">
+    <envs>
+      <env name="DEBUG" value="api:*" />
+      <env name="NODE_ENV" value="development" />
+    </envs>
+    <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
+      <profiling allow-runtime-heap-snapshot="true" do-profile="true" />
+    </EXTENSION>
     <method v="2" />
   </configuration>
 </component>

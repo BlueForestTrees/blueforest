@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="film" type="js.build_tools.npm">
+  <configuration default="false" name="film" type="js.build_tools.npm" folderName="bf">
     <package-json value="$PROJECT_DIR$/../film-api/package.json" />
     <command value="run" />
     <scripts>

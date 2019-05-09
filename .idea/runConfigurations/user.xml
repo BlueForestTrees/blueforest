@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="user" type="js.build_tools.npm" factoryName="npm">
+  <configuration default="false" name="user" type="js.build_tools.npm" folderName="bf">
     <package-json value="$PROJECT_DIR$/../user/package.json" />
     <command value="run" />
     <scripts>
