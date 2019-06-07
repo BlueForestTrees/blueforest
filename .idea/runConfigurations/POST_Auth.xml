@@ -14,7 +14,7 @@
       <env name="MAIL_CONFIG_PATH" value="../secured/user" />
     </envs>
     <ui>bdd</ui>
-    <extra-mocha-options>--recursive --require babel-register --exit</extra-mocha-options>
+    <extra-mocha-options>--recursive --exit</extra-mocha-options>
     <test-kind>SUITE</test-kind>
     <test-file>$PROJECT_DIR$/../user/test/testPostLoginInteg.js</test-file>
     <test-names>
